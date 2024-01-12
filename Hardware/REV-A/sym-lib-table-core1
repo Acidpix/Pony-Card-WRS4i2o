@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESP32-EVB_Rev_K1")(type "Legacy")(uri "F:/CAO/ESP32-EVB-master/HARDWARE/REV-K1/ESP32-EVB_Rev_K1.lib")(options "")(descr ""))
+  (lib (name "Import_lib")(type "KiCad")(uri "${KIPRJMOD}/Import_lib.kicad_sym")(options "")(descr ""))
+)

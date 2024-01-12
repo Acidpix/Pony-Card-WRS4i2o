@@ -1,0 +1,141 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP 1984963
+D Phoenix Contact PTSA 1.5/ 2-3.5-F Non-Fused Terminal Block, 2 Way/Pole, Solder Terminals, 20  16 AWG
+K
+F https://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/COMBICON%20Spring-Cage%20PCB%20Term.%20Blocks.pdf
+$ENDCMP
+#
+$CMP 1984976
+D Fixed Terminal Blocks PTSA 1.5/ 3-3.5-F
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-2/sf-00059050.pdf
+$ENDCMP
+#
+$CMP 1985027
+D PCB terminal block, nominal current: 8 A, rated voltage (III/2): 250 V, nominal cross section: 1.5 mm, pitch: 3.5 mm, number of positions: 8, connection method: Push-in spring connection, mounting: Wave soldering, conductor/PCB connection direction: 45 , color: green, Pin layout: Linear pinning, Solder pin [P]: 3.6 mm. Soldering legs in front area, one-rowed
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-2/sf-00059055.pdf
+$ENDCMP
+#
+$CMP G5Q-1-DC12
+D General Purpose Relays Power PCB Relay Vented SPDT 12VDC
+K
+F https://componentsearchengine.com/Datasheets/1/G5Q-1-DC12.pdf
+$ENDCMP
+#
+$CMP VOD207T
+D Vishay VOD207T DC Input, Transistor Output Dual Optocoupler, SMT SOIC 8
+K
+F http://www.vishay.com/docs/81956/vod205t.pdf
+$ENDCMP
+#
+$CMP AZ1117CH-3.3TRG1
+D 1.35A 3.3V LDO Reg. Current Limit SOT223 DiodesZetex AZ1117CH-3.3TRG1, LDO Voltage Regulator, 0.8A, 3.3 V +/-1%, maximum of 15 Vin, 3-Pin SOT-223
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA25/1776204.pdf
+$ENDCMP
+#
+$CMP TXB0104RGYRG4
+D Translation - Voltage Levels 4-Bit Bi-directional V-Level Translator
+K
+F https://www.ti.com/lit/gpn/TXB0104
+$ENDCMP
+#
+$CMP BC817-40,215
+D BC817; BC817W; BC337 - 45 V, 500 mA NPN general-purpose transistors
+K
+F https://assets.nexperia.com/documents/data-sheet/BC817_SER.pdf
+$ENDCMP
+#
+$CMP THVD1420DRLR
+D 3.3-V to 5-V, 12-Mbps, RS-485 transceiver in small package option with +/-12-kV IEC ESD prot
+K
+F https://www.ti.com/lit/gpn/THVD1420
+$ENDCMP
+#
+$CMP THVD1420DR
+D RS-422/RS-485 Interface IC 3.3-V to 5-V RS-485 transceiver with +/-8-kV IEC ESD protection
+K
+F https://www.ti.com/lit/ds/symlink/thvd1420.pdf?ts=1627460855173&ref_url=https%253A%252F%252Fwww.google.com%252F
+$ENDCMP
+#
+$CMP CAY16-222J4LF
+D Bourns CAY16 Series 2.2k +/-5% Isolated SMT Resistor Array, 4 Resistors, 0.25W total 1206 (3216M) package Convex
+K
+F http://www.bourns.com/docs/Product-Datasheets/CATCAY.pdf
+$ENDCMP
+#
+$CMP LAN8710A-EZC
+D Ethernet ICs 10/100 Ethernet XCVR HP AutoMDIX FlexPwr
+K
+F https://componentsearchengine.com/Datasheets/2/LAN8710A-EZC.pdf
+$ENDCMP
+#
+$CMP ESDS314DBVR
+D Data-Line Surge and ESD Protection Diode Array
+K
+F http://www.ti.com/lit/gpn/esds314
+$ENDCMP
+#
+$CMP TPS2376D
+D IEEE 802.3af PoE Powered Device Controllers
+K
+F http://www.ti.com/lit/gpn/tps2376
+$ENDCMP
+#
+$CMP 1985001
+D Phoenix Contact PTSA 1.5/ 6-3.5-F Non-Fused Terminal Block, 6 Way/Pole, Solder Terminals, 20  16 AWG Through
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-2/sf-00059053.pdf
+$ENDCMP
+#
+$CMP 1985069
+D Conn PC Terminal Block 12 POS 3.5mm Solder Thru-Hole 8A
+K
+F https://datasheet.datasheetarchive.com/originals/dk/DKDS-5/85375.pdf
+$ENDCMP
+#
+$CMP 0826-1X1T-GH-F
+D BEL MAGNETIC SOLUTIONS - 0826-1X1T-GH-F - MAGJACK, 1000 BASE-T, RJ45, 8P8C, 1PORT
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA2/203609.pdf
+$ENDCMP
+#
+$CMP DB103S-T
+D Bridge Rectifiers 1A 200V SM GP
+K
+F https://www.rectron.com/public/product_datasheets/db101s-db107s.pdf
+$ENDCMP
+#
+$CMP DO3316P-333MLD
+D Fixed Inductors 33uH Unshld 20% 2.1A 100mOhms
+K
+F https://www.coilcraft.com/pdfs/do3316p.pdf
+$ENDCMP
+#
+$CMP ESP32-WROOM-32E-N4
+D RX TXRX MOD WIFI TRACE ANT SMD
+K
+F https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf
+$ENDCMP
+#
+$CMP MCP23S17T-E_ML
+D Interface - I/O Expanders 16bit Input/Output Exp SPI interface
+K
+F 
+$ENDCMP
+#
+$CMP ULN2003ADR
+D Trans Darlington NPN 50V 0.5A SOIC16 Texas Instruments ULN2003ADR, 7-element NPN Darlington Transistor Array, 0.5 A 50 V, 16-Pin SOIC
+K
+F http://www.ti.com/lit/ds/symlink/uln2003a.pdf
+$ENDCMP
+#
+#End Doc Library
