@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>C:\Users\Pixi\OneDrive\Documents\CAO\esp32-poe-wiegand-relay\Hardware\REV-B\ESP32-POE-Wiegand-Relay-REV-B.kicad_sch</source>
-    <date>12/23/2023 5:52:07 PM</date>
+    <source>C:\Users\Pixi\OneDrive\Documents\CAO\Pony-Card-WRS4i2o\Hardware\REV-B\ESP32-POE-Wiegand-Relay-REV-B.kicad_sch</source>
+    <date>1/12/2024 1:11:56 PM</date>
     <tool>Eeschema 7.0.8</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -34,8 +34,6 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC/JLC Part Number" value="C2991805"/>
       <property name="Mouser Part Number" value="81-GRM188R60J226ME0D"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -53,8 +51,6 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC/JLC Part Number" value="C2991805"/>
       <property name="Mouser Part Number" value="81-GRM188R60J226ME0D"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -72,8 +68,6 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC/JLC Part Number" value="C725573"/>
       <property name="Mouser Part Number" value="710-885342208024"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -87,13 +81,10 @@
       <fields>
         <field name="LCSC/JLC Part Number">C1525</field>
         <field name="Mouser Part Number">81-GRM155R71C104KA8J</field>
-        <field name="OldStock">Yes</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC/JLC Part Number" value="C1525"/>
       <property name="Mouser Part Number" value="81-GRM155R71C104KA8J"/>
-      <property name="OldStock" value="Yes"/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -108,9 +99,7 @@
         <field name="LCSC/JLC Part Number">C107007</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="OldStock" value=""/>
       <property name="LCSC/JLC Part Number" value="C107007"/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
@@ -124,13 +113,10 @@
       <fields>
         <field name="LCSC/JLC Part Number">C1525</field>
         <field name="Mouser Part Number">81-GRM155R71C104KA8J</field>
-        <field name="OldStock">Yes</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC/JLC Part Number" value="C1525"/>
       <property name="Mouser Part Number" value="81-GRM155R71C104KA8J"/>
-      <property name="OldStock" value="Yes"/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -148,8 +134,6 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC/JLC Part Number" value="C2991805"/>
       <property name="Mouser Part Number" value="81-GRM188R60J226ME0D"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -163,13 +147,10 @@
       <fields>
         <field name="LCSC/JLC Part Number">C1525</field>
         <field name="Mouser Part Number">81-GRM155R71C104KA8J</field>
-        <field name="OldStock">Yes</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC/JLC Part Number" value="C1525"/>
       <property name="Mouser Part Number" value="81-GRM155R71C104KA8J"/>
-      <property name="OldStock" value="Yes"/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -183,13 +164,10 @@
       <fields>
         <field name="LCSC/JLC Part Number">C1525</field>
         <field name="Mouser Part Number">81-GRM155R71C104KA8J</field>
-        <field name="OldStock">Yes</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC/JLC Part Number" value="C1525"/>
       <property name="Mouser Part Number" value="81-GRM155R71C104KA8J"/>
-      <property name="OldStock" value="Yes"/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -203,13 +181,10 @@
       <fields>
         <field name="LCSC/JLC Part Number">C1525</field>
         <field name="Mouser Part Number">81-GRM155R71C104KA8J</field>
-        <field name="OldStock">Yes</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC/JLC Part Number" value="C1525"/>
       <property name="Mouser Part Number" value="81-GRM155R71C104KA8J"/>
-      <property name="OldStock" value="Yes"/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -223,13 +198,10 @@
       <fields>
         <field name="LCSC/JLC Part Number">C1525</field>
         <field name="Mouser Part Number">81-GRM155R71C104KA8J</field>
-        <field name="OldStock">Yes</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC/JLC Part Number" value="C1525"/>
       <property name="Mouser Part Number" value="81-GRM155R71C104KA8J"/>
-      <property name="OldStock" value="Yes"/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -243,13 +215,10 @@
       <fields>
         <field name="LCSC/JLC Part Number">C1525</field>
         <field name="Mouser Part Number">81-GRM155R71C104KA8J</field>
-        <field name="OldStock">Yes</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC/JLC Part Number" value="C1525"/>
       <property name="Mouser Part Number" value="81-GRM155R71C104KA8J"/>
-      <property name="OldStock" value="Yes"/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -262,12 +231,9 @@
       <footprint>Capacitor_SMD:C_1210_3225Metric</footprint>
       <fields>
         <field name="LCSC/JLC Part Number">C2918513</field>
-        <field name="NewPart">Yes</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="OldStock" value=""/>
       <property name="LCSC/JLC Part Number" value="C2918513"/>
-      <property name="NewPart" value="Yes"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
@@ -281,13 +247,10 @@
       <fields>
         <field name="LCSC/JLC Part Number">C28233</field>
         <field name="Mouser Part Number">810-C2012X7R2A104K</field>
-        <field name="OldStock">Yes</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC/JLC Part Number" value="C28233"/>
       <property name="Mouser Part Number" value="810-C2012X7R2A104K"/>
-      <property name="OldStock" value="Yes"/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -302,9 +265,7 @@
         <field name="LCSC/JLC Part Number">C602037</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="OldStock" value=""/>
       <property name="LCSC/JLC Part Number" value="C602037"/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
@@ -318,13 +279,10 @@
       <fields>
         <field name="LCSC/JLC Part Number">C1525</field>
         <field name="Mouser Part Number">81-GRM155R71C104KA8J</field>
-        <field name="OldStock">Yes</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC/JLC Part Number" value="C1525"/>
       <property name="Mouser Part Number" value="81-GRM155R71C104KA8J"/>
-      <property name="OldStock" value="Yes"/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -342,8 +300,6 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC/JLC Part Number" value="C412627"/>
       <property name="Mouser Part Number" value="81-GCM188R70J225KE2D"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -357,13 +313,10 @@
       <fields>
         <field name="LCSC/JLC Part Number">C1525</field>
         <field name="Mouser Part Number">81-GRM155R71C104KA8J</field>
-        <field name="OldStock">Yes</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC/JLC Part Number" value="C1525"/>
       <property name="Mouser Part Number" value="81-GRM155R71C104KA8J"/>
-      <property name="OldStock" value="Yes"/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -381,8 +334,6 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC/JLC Part Number" value="C3000819"/>
       <property name="Mouser Part Number" value="77-VJ0603Y105KXQCWBC"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -396,13 +347,10 @@
       <fields>
         <field name="LCSC/JLC Part Number">C28233</field>
         <field name="Mouser Part Number">810-C2012X7R2A104K</field>
-        <field name="OldStock">Yes</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC/JLC Part Number" value="C28233"/>
       <property name="Mouser Part Number" value="810-C2012X7R2A104K"/>
-      <property name="OldStock" value="Yes"/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -411,17 +359,15 @@
       <tstamps>9bf05c88-f1ea-4d4b-b99e-761ca84be5bc</tstamps>
     </comp>
     <comp ref="C35">
-      <value>15uF/100V/20%/RM2.5/6.3x11mm(Farnell:1281844)</value>
+      <value>15uF/100V/20%</value>
       <footprint>Capacitor_THT:CP_Radial_D5.0mm_P2.00mm</footprint>
       <fields>
-        <field name="LCSC/JLC Part Number">C443117</field>
+        <field name="LCSC/JLC Part Number">C442918</field>
         <field name="Mouser Part Number">661-EKYB101E150MF11D</field>
       </fields>
       <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
-      <property name="LCSC/JLC Part Number" value="C443117"/>
+      <property name="LCSC/JLC Part Number" value="C442918"/>
       <property name="Mouser Part Number" value="661-EKYB101E150MF11D"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Polarized capacitor"/>
@@ -435,13 +381,10 @@
       <fields>
         <field name="LCSC/JLC Part Number">C28233</field>
         <field name="Mouser Part Number">810-C2012X7R2A104K</field>
-        <field name="OldStock">Yes</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC/JLC Part Number" value="C28233"/>
       <property name="Mouser Part Number" value="810-C2012X7R2A104K"/>
-      <property name="OldStock" value="Yes"/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -459,8 +402,6 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="LCSC/JLC Part Number" value="C386126"/>
       <property name="Mouser Part Number" value="963-UMK105CG120JVHF"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -472,16 +413,13 @@
       <value>470uF/16V/20%/Low_ESR/RM3.5/8.0x15mm</value>
       <footprint>Capacitor_THT:CP_Radial_D8.0mm_P3.50mm</footprint>
       <fields>
-        <field name="Coment">LCSC SMD not TMD</field>
-        <field name="LCSC/JLC Part Number">C2858857</field>
-        <field name="Mouser Part Number">667-EEU-FR1C471</field>
+        <field name="LCSC/JLC Part Number">C428866</field>
+        <field name="Mouser Part Number">NA</field>
       </fields>
       <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
-      <property name="LCSC/JLC Part Number" value="C2858857"/>
-      <property name="Mouser Part Number" value="667-EEU-FR1C471"/>
-      <property name="OldStock" value=""/>
-      <property name="Coment" value="LCSC SMD not TMD"/>
-      <property name="NewPart" value=""/>
+      <property name="LCSC/JLC Part Number" value="C428866"/>
+      <property name="Mouser Part Number" value="NA"/>
+      <property name="Coment" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Polarized capacitor"/>
@@ -495,16 +433,9 @@
       <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
       <fields>
         <field name="LCSC/JLC Part Number">C64885</field>
-        <field name="NewPart">Yes</field>
-        <field name="Sim.Device">D</field>
-        <field name="Sim.Pins">1=K 2=A</field>
       </fields>
       <libsource lib="Diode" part="1N5817" description="20V 1A Schottky Barrier Rectifier Diode, DO-41"/>
-      <property name="Sim.Device" value="D"/>
-      <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="LCSC/JLC Part Number" value="C64885"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value="Yes"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="20V 1A Schottky Barrier Rectifier Diode, DO-41"/>
@@ -523,8 +454,6 @@
       <libsource lib="Diode" part="SMAJ58A" description="400W unidirectional Transient Voltage Suppressor, 58.0Vr, SMA(DO-214AC)"/>
       <property name="LCSC/JLC Part Number" value="C151246"/>
       <property name="Mouser Part Number" value="576-SMAJ58A"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="400W unidirectional Transient Voltage Suppressor, 58.0Vr, SMA(DO-214AC)"/>
@@ -538,16 +467,9 @@
       <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
       <fields>
         <field name="LCSC/JLC Part Number">C64885</field>
-        <field name="NewPart">Yes</field>
-        <field name="Sim.Device">D</field>
-        <field name="Sim.Pins">1=K 2=A</field>
       </fields>
       <libsource lib="Diode" part="1N5817" description="20V 1A Schottky Barrier Rectifier Diode, DO-41"/>
-      <property name="Sim.Device" value="D"/>
-      <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="LCSC/JLC Part Number" value="C64885"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value="Yes"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="20V 1A Schottky Barrier Rectifier Diode, DO-41"/>
@@ -565,8 +487,6 @@
       <libsource lib="Device" part="D_Schottky_Small" description="Schottky diode, small symbol"/>
       <property name="LCSC/JLC Part Number" value="C2985020"/>
       <property name="Mouser Part Number" value="750-SS510C-HF"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Schottky diode, small symbol"/>
@@ -580,16 +500,9 @@
       <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
       <fields>
         <field name="LCSC/JLC Part Number">C64885</field>
-        <field name="NewPart">Yes</field>
-        <field name="Sim.Device">D</field>
-        <field name="Sim.Pins">1=K 2=A</field>
       </fields>
       <libsource lib="Diode" part="1N5817" description="20V 1A Schottky Barrier Rectifier Diode, DO-41"/>
-      <property name="Sim.Device" value="D"/>
-      <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="LCSC/JLC Part Number" value="C64885"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value="Yes"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="20V 1A Schottky Barrier Rectifier Diode, DO-41"/>
@@ -608,8 +521,6 @@
       <libsource lib="Power_Protection" part="SP0502BAHT" description="TVS Diode Array, 5.5V Standoff, 2 Channels, SOT-23 package"/>
       <property name="LCSC/JLC Part Number" value="C2985651"/>
       <property name="Mouser Part Number" value="947-SM712.TCT"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="TVS Diode Array, 5.5V Standoff, 2 Channels, SOT-23 package"/>
@@ -623,16 +534,9 @@
       <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
       <fields>
         <field name="LCSC/JLC Part Number">C64885</field>
-        <field name="NewPart">Yes</field>
-        <field name="Sim.Device">D</field>
-        <field name="Sim.Pins">1=K 2=A</field>
       </fields>
       <libsource lib="Diode" part="1N5817" description="20V 1A Schottky Barrier Rectifier Diode, DO-41"/>
-      <property name="Sim.Device" value="D"/>
-      <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="LCSC/JLC Part Number" value="C64885"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value="Yes"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="20V 1A Schottky Barrier Rectifier Diode, DO-41"/>
@@ -646,16 +550,9 @@
       <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
       <fields>
         <field name="LCSC/JLC Part Number">C64885</field>
-        <field name="NewPart">Yes</field>
-        <field name="Sim.Device">D</field>
-        <field name="Sim.Pins">1=K 2=A</field>
       </fields>
       <libsource lib="Diode" part="1N5817" description="20V 1A Schottky Barrier Rectifier Diode, DO-41"/>
-      <property name="Sim.Device" value="D"/>
-      <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="LCSC/JLC Part Number" value="C64885"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value="Yes"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="20V 1A Schottky Barrier Rectifier Diode, DO-41"/>
@@ -669,16 +566,9 @@
       <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
       <fields>
         <field name="LCSC/JLC Part Number">C64885</field>
-        <field name="NewPart">Yes</field>
-        <field name="Sim.Device">D</field>
-        <field name="Sim.Pins">1=K 2=A</field>
       </fields>
       <libsource lib="Diode" part="1N5817" description="20V 1A Schottky Barrier Rectifier Diode, DO-41"/>
-      <property name="Sim.Device" value="D"/>
-      <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="LCSC/JLC Part Number" value="C64885"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value="Yes"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="20V 1A Schottky Barrier Rectifier Diode, DO-41"/>
@@ -692,16 +582,9 @@
       <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
       <fields>
         <field name="LCSC/JLC Part Number">C64885</field>
-        <field name="NewPart">Yes</field>
-        <field name="Sim.Device">D</field>
-        <field name="Sim.Pins">1=K 2=A</field>
       </fields>
       <libsource lib="Diode" part="1N5817" description="20V 1A Schottky Barrier Rectifier Diode, DO-41"/>
-      <property name="Sim.Device" value="D"/>
-      <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="LCSC/JLC Part Number" value="C64885"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value="Yes"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="20V 1A Schottky Barrier Rectifier Diode, DO-41"/>
@@ -715,16 +598,9 @@
       <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
       <fields>
         <field name="LCSC/JLC Part Number">C64885</field>
-        <field name="NewPart">Yes</field>
-        <field name="Sim.Device">D</field>
-        <field name="Sim.Pins">1=K 2=A</field>
       </fields>
       <libsource lib="Diode" part="1N5817" description="20V 1A Schottky Barrier Rectifier Diode, DO-41"/>
-      <property name="Sim.Device" value="D"/>
-      <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="LCSC/JLC Part Number" value="C64885"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value="Yes"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="20V 1A Schottky Barrier Rectifier Diode, DO-41"/>
@@ -738,16 +614,9 @@
       <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
       <fields>
         <field name="LCSC/JLC Part Number">C64885</field>
-        <field name="NewPart">Yes</field>
-        <field name="Sim.Device">D</field>
-        <field name="Sim.Pins">1=K 2=A</field>
       </fields>
       <libsource lib="Diode" part="1N5817" description="20V 1A Schottky Barrier Rectifier Diode, DO-41"/>
-      <property name="Sim.Device" value="D"/>
-      <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="LCSC/JLC Part Number" value="C64885"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value="Yes"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="20V 1A Schottky Barrier Rectifier Diode, DO-41"/>
@@ -761,16 +630,9 @@
       <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
       <fields>
         <field name="LCSC/JLC Part Number">C408258</field>
-        <field name="NewPart">Yes</field>
-        <field name="Sim.Device">D</field>
-        <field name="Sim.Pins">1=K 2=A</field>
       </fields>
       <libsource lib="Diode" part="1N5817" description="20V 1A Schottky Barrier Rectifier Diode, DO-41"/>
-      <property name="Sim.Device" value="D"/>
-      <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="LCSC/JLC Part Number" value="C408258"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value="Yes"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="20V 1A Schottky Barrier Rectifier Diode, DO-41"/>
@@ -787,8 +649,6 @@
       </fields>
       <libsource lib="SamacSys_Parts" part="MDB10S YONG" description="Single-Phase Bridge Rectifier, 700V Vrms, 1A If, TSSOP-4"/>
       <property name="LCSC/JLC Part Number" value="C2892569"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Single-Phase Bridge Rectifier, 700V Vrms, 1A If, TSSOP-4"/>
@@ -805,8 +665,6 @@
       </fields>
       <libsource lib="SamacSys_Parts" part="MDB10S YONG" description="Single-Phase Bridge Rectifier, 700V Vrms, 1A If, TSSOP-4"/>
       <property name="LCSC/JLC Part Number" value="C2892569"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Single-Phase Bridge Rectifier, 700V Vrms, 1A If, TSSOP-4"/>
@@ -820,16 +678,9 @@
       <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
       <fields>
         <field name="LCSC/JLC Part Number">C64885</field>
-        <field name="NewPart">Yes</field>
-        <field name="Sim.Device">D</field>
-        <field name="Sim.Pins">1=K 2=A</field>
       </fields>
       <libsource lib="Diode" part="1N5817" description="20V 1A Schottky Barrier Rectifier Diode, DO-41"/>
-      <property name="Sim.Device" value="D"/>
-      <property name="Sim.Pins" value="1=K 2=A"/>
       <property name="LCSC/JLC Part Number" value="C64885"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value="Yes"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="20V 1A Schottky Barrier Rectifier Diode, DO-41"/>
@@ -847,8 +698,6 @@
       <libsource lib="SamacSys_Parts" part="P-MOS+DIOD" description=""/>
       <property name="LCSC/JLC Part Number" value="C6562215"/>
       <property name="Mouser Part Number" value="637-MMFTP3401"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -865,8 +714,6 @@
       <libsource lib="SamacSys_Parts" part="VOD207T" description="Vishay VOD207T DC Input, Transistor Output Dual Optocoupler, SMT SOIC 8"/>
       <property name="Mouser Part Number" value="78-VOD207T"/>
       <property name="LCSC/JLC Part Number" value="C146234"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Vishay VOD207T DC Input, Transistor Output Dual Optocoupler, SMT SOIC 8"/>
@@ -884,8 +731,6 @@
       <libsource lib="SamacSys_Parts" part="VOD207T" description="Vishay VOD207T DC Input, Transistor Output Dual Optocoupler, SMT SOIC 8"/>
       <property name="Mouser Part Number" value="78-VOD207T"/>
       <property name="LCSC/JLC Part Number" value="C146234"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Vishay VOD207T DC Input, Transistor Output Dual Optocoupler, SMT SOIC 8"/>
@@ -903,8 +748,6 @@
       <libsource lib="SamacSys_Parts" part="THVD1420DR" description="RS-422/RS-485 Interface IC 3.3-V to 5-V RS-485 transceiver with +/-8-kV IEC ESD protection"/>
       <property name="Mouser Part Number" value="595-THVD1420DR"/>
       <property name="LCSC/JLC Part Number" value="C3235215"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="RS-422/RS-485 Interface IC 3.3-V to 5-V RS-485 transceiver with +/-8-kV IEC ESD protection"/>
@@ -916,14 +759,12 @@
       <footprint>SamacSys_Parts:1984963</footprint>
       <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/COMBICON%20Spring-Cage%20PCB%20Term.%20Blocks.pdf</datasheet>
       <fields>
-        <field name="LCSC/JLC Part Number">NA</field>
+        <field name="LCSC/JLC Part Number">C7467028</field>
         <field name="Mouser Part Number">651-1984963</field>
       </fields>
       <libsource lib="SamacSys_Parts" part="1984963" description="Phoenix Contact PTSA 1.5/ 2-3.5-F Non-Fused Terminal Block, 2 Way/Pole, Solder Terminals, 20  16 AWG"/>
       <property name="Mouser Part Number" value="651-1984963"/>
-      <property name="LCSC/JLC Part Number" value="NA"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
+      <property name="LCSC/JLC Part Number" value="C7467028"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Phoenix Contact PTSA 1.5/ 2-3.5-F Non-Fused Terminal Block, 2 Way/Pole, Solder Terminals, 20  16 AWG"/>
@@ -939,8 +780,6 @@
       </fields>
       <libsource lib="SamacSys_Parts" part="0826-1X1T-GH-F" description="BEL MAGNETIC SOLUTIONS - 0826-1X1T-GH-F - MAGJACK, 1000 BASE-T, RJ45, 8P8C, 1PORT"/>
       <property name="Mouser Part Number" value="530-0826-1X1T-GH-F"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="BEL MAGNETIC SOLUTIONS - 0826-1X1T-GH-F - MAGJACK, 1000 BASE-T, RJ45, 8P8C, 1PORT"/>
@@ -954,13 +793,10 @@
       <fields>
         <field name="LCSC/JLC Part Number">C709357</field>
         <field name="Mouser Part Number">USB4105-GF-A</field>
-        <field name="NewPart">Yes</field>
       </fields>
       <libsource lib="Connector" part="USB_C_Receptacle_USB2.0" description="USB 2.0-only Type-C Receptacle connector"/>
       <property name="LCSC/JLC Part Number" value="C709357"/>
       <property name="Mouser Part Number" value="USB4105-GF-A"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value="Yes"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="USB 2.0-only Type-C Receptacle connector"/>
@@ -973,14 +809,12 @@
       <footprint>SamacSys_Parts:1985069</footprint>
       <datasheet>https://datasheet.datasheetarchive.com/originals/dk/DKDS-5/85375.pdf</datasheet>
       <fields>
-        <field name="LCSC/JLC Part Number">NA</field>
+        <field name="LCSC/JLC Part Number">C7470124</field>
         <field name="Mouser Part Number">651-1985069</field>
       </fields>
       <libsource lib="SamacSys_Parts" part="1985069" description="Conn PC Terminal Block 12 POS 3.5mm Solder Thru-Hole 8A"/>
       <property name="Mouser Part Number" value="651-1985069"/>
-      <property name="LCSC/JLC Part Number" value="NA"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
+      <property name="LCSC/JLC Part Number" value="C7470124"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Conn PC Terminal Block 12 POS 3.5mm Solder Thru-Hole 8A"/>
@@ -992,33 +826,40 @@
       <footprint>SamacSys_Parts:1985001</footprint>
       <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-2/sf-00059053.pdf</datasheet>
       <fields>
-        <field name="LCSC/JLC Part Number">NA</field>
+        <field name="LCSC/JLC Part Number">C7467032</field>
         <field name="Mouser Part Number">651-1985001</field>
       </fields>
       <libsource lib="SamacSys_Parts" part="1985001" description="Phoenix Contact PTSA 1.5/ 6-3.5-F Non-Fused Terminal Block, 6 Way/Pole, Solder Terminals, 20  16 AWG Through"/>
       <property name="Mouser Part Number" value="651-1985001"/>
-      <property name="LCSC/JLC Part Number" value="NA"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
+      <property name="LCSC/JLC Part Number" value="C7467032"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Phoenix Contact PTSA 1.5/ 6-3.5-F Non-Fused Terminal Block, 6 Way/Pole, Solder Terminals, 20  16 AWG Through"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6dc17451-d6c3-47f4-98b0-94e85ea9a285</tstamps>
     </comp>
+    <comp ref="J8">
+      <value>Conn_01x10</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x10" description="Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>27edb451-b264-446c-87dc-104c81f7bf23</tstamps>
+    </comp>
     <comp ref="K1">
       <value>G5Q-1-DC12</value>
       <footprint>SamacSys_Parts:G5Q1DC12</footprint>
       <datasheet>https://componentsearchengine.com/Datasheets/1/G5Q-1-DC12.pdf</datasheet>
       <fields>
-        <field name="LCSC/JLC Part Number">NA</field>
+        <field name="LCSC/JLC Part Number">C59752</field>
         <field name="Mouser Part Number">653-G5Q-1-DC12</field>
       </fields>
       <libsource lib="SamacSys_Parts" part="G5Q-1-DC12" description="General Purpose Relays Power PCB Relay Vented SPDT 12VDC"/>
       <property name="Mouser Part Number" value="653-G5Q-1-DC12"/>
-      <property name="LCSC/JLC Part Number" value="NA"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
+      <property name="LCSC/JLC Part Number" value="C59752"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="General Purpose Relays Power PCB Relay Vented SPDT 12VDC"/>
@@ -1030,14 +871,12 @@
       <footprint>SamacSys_Parts:G5Q1DC12</footprint>
       <datasheet>https://componentsearchengine.com/Datasheets/1/G5Q-1-DC12.pdf</datasheet>
       <fields>
-        <field name="LCSC/JLC Part Number">NA</field>
+        <field name="LCSC/JLC Part Number">C59752</field>
         <field name="Mouser Part Number">653-G5Q-1-DC12</field>
       </fields>
       <libsource lib="SamacSys_Parts" part="G5Q-1-DC12" description="General Purpose Relays Power PCB Relay Vented SPDT 12VDC"/>
       <property name="Mouser Part Number" value="653-G5Q-1-DC12"/>
-      <property name="LCSC/JLC Part Number" value="NA"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
+      <property name="LCSC/JLC Part Number" value="C59752"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="General Purpose Relays Power PCB Relay Vented SPDT 12VDC"/>
@@ -1045,18 +884,16 @@
       <tstamps>fc3dd5be-1b37-4ab0-bffe-678cc41d09f7</tstamps>
     </comp>
     <comp ref="L1">
-      <value>DO3316P-333MLD</value>
-      <footprint>SamacSys_Parts:DO3316P333MLD</footprint>
+      <value>Sunlord MWSA1004S-330MT</value>
+      <footprint>Inductor_SMD:L_Sunlord_MWSA1004S</footprint>
       <datasheet>https://www.coilcraft.com/pdfs/do3316p.pdf</datasheet>
       <fields>
-        <field name="LCSC/JLC Part Number">C108313</field>
+        <field name="LCSC/JLC Part Number">C408490</field>
         <field name="Mouser Part Number">994-DO3316P-333MLD</field>
       </fields>
       <libsource lib="SamacSys_Parts" part="DO3316P-333MLD" description="Fixed Inductors 33uH Unshld 20% 2.1A 100mOhms"/>
       <property name="Mouser Part Number" value="994-DO3316P-333MLD"/>
-      <property name="LCSC/JLC Part Number" value="C108313"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
+      <property name="LCSC/JLC Part Number" value="C408490"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Fixed Inductors 33uH Unshld 20% 2.1A 100mOhms"/>
@@ -1073,8 +910,6 @@
       <libsource lib="Device" part="L" description="Inductor"/>
       <property name="LCSC/JLC Part Number" value="C81034"/>
       <property name="Mouser Part Number" value="810-MPZ2012S601ATD25"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Inductor"/>
@@ -1087,12 +922,9 @@
       <footprint>Inductor_SMD:L_Changjiang_FNR6045S</footprint>
       <fields>
         <field name="LCSC/JLC Part Number">C168076</field>
-        <field name="NewPart">Yes</field>
       </fields>
       <libsource lib="Device" part="L" description="Inductor"/>
-      <property name="OldStock" value=""/>
       <property name="LCSC/JLC Part Number" value="C168076"/>
-      <property name="NewPart" value="Yes"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Inductor"/>
@@ -1101,7 +933,7 @@
       <tstamps>6b93f3db-9467-43c2-8894-866d975d05c9</tstamps>
     </comp>
     <comp ref="LED1">
-      <value>LED/GREEN/0603</value>
+      <value>LED/BLUE/0603</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC/JLC Part Number">C2962098</field>
@@ -1110,8 +942,6 @@
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="LCSC/JLC Part Number" value="C2962098"/>
       <property name="Mouser Part Number" value="710-150060VS75000"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Light emitting diode"/>
@@ -1120,7 +950,7 @@
       <tstamps>00000000-0000-0000-0000-00005810c58c</tstamps>
     </comp>
     <comp ref="LED2">
-      <value>LED/GREEN/0603</value>
+      <value>LED/BLUE/0603</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
         <field name="LCSC/JLC Part Number">C2962098</field>
@@ -1129,8 +959,6 @@
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="LCSC/JLC Part Number" value="C2962098"/>
       <property name="Mouser Part Number" value="710-150060VS75000"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Light emitting diode"/>
@@ -1148,8 +976,6 @@
       <libsource lib="" part="Mounting_hole_Shield_3.3mm_2" description=""/>
       <property name="LCSC/JLC Part Number" value="NA"/>
       <property name="Mouser Part Number" value="NA"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1165,8 +991,6 @@
       <libsource lib="" part="Mounting_hole_Shield_3.3mm_3" description=""/>
       <property name="LCSC/JLC Part Number" value="NA"/>
       <property name="Mouser Part Number" value="NA"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1182,8 +1006,6 @@
       <libsource lib="import-Library" part="Mounting_hole_Shield_3.3mm" description=""/>
       <property name="LCSC/JLC Part Number" value="NA"/>
       <property name="Mouser Part Number" value="NA"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1199,8 +1021,6 @@
       <libsource lib="" part="Mounting_hole_Shield_3.3mm_1" description=""/>
       <property name="LCSC/JLC Part Number" value="NA"/>
       <property name="Mouser Part Number" value="NA"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1213,21 +1033,14 @@
       <fields>
         <field name="Height">1.1</field>
         <field name="LCSC/JLC Part Number">C191884</field>
-        <field name="Manufacturer_Name">Texas Instruments</field>
         <field name="Manufacturer_Part_Number">TPS54202DDCR</field>
         <field name="Mouser Part Number">595-TPS54202DDCR</field>
-        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS54202DDCR?qs=uP22XH7NdCsJtN%2Fq54jCtQ%3D%3D</field>
-        <field name="NewPart">Yes</field>
       </fields>
       <libsource lib="SamacSys_Parts" part="TPS54202DDCR" description="4.5V to 28V Input, 2A Output, EMI Friendly Synchronous Step-Down Converter"/>
       <property name="Height" value="1.1"/>
       <property name="Mouser Part Number" value="595-TPS54202DDCR"/>
-      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS54202DDCR?qs=uP22XH7NdCsJtN%2Fq54jCtQ%3D%3D"/>
-      <property name="Manufacturer_Name" value="Texas Instruments"/>
       <property name="Manufacturer_Part_Number" value="TPS54202DDCR"/>
       <property name="LCSC/JLC Part Number" value="C191884"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value="Yes"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="4.5V to 28V Input, 2A Output, EMI Friendly Synchronous Step-Down Converter"/>
@@ -1244,8 +1057,6 @@
       <libsource lib="Device" part="Q_NPN_BEC" description="NPN transistor, base/emitter/collector"/>
       <property name="LCSC/JLC Part Number" value="C146798"/>
       <property name="Mouser Part Number" value="637-BC817-40"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="NPN transistor, base/emitter/collector"/>
@@ -1263,8 +1074,6 @@
       <libsource lib="Device" part="Q_NPN_BEC" description="NPN transistor, base/emitter/collector"/>
       <property name="LCSC/JLC Part Number" value="C146798"/>
       <property name="Mouser Part Number" value="637-BC817-40"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="NPN transistor, base/emitter/collector"/>
@@ -1282,8 +1091,6 @@
       <libsource lib="Device" part="Q_NPN_BEC" description="NPN transistor, base/emitter/collector"/>
       <property name="LCSC/JLC Part Number" value="C146798"/>
       <property name="Mouser Part Number" value="637-BC817-40"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="NPN transistor, base/emitter/collector"/>
@@ -1301,8 +1108,6 @@
       <libsource lib="Device" part="Q_NPN_BEC" description="NPN transistor, base/emitter/collector"/>
       <property name="LCSC/JLC Part Number" value="C146798"/>
       <property name="Mouser Part Number" value="637-BC817-40"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="NPN transistor, base/emitter/collector"/>
@@ -1320,8 +1125,6 @@
       <libsource lib="Device" part="Q_NPN_BEC" description="NPN transistor, base/emitter/collector"/>
       <property name="LCSC/JLC Part Number" value="C146798"/>
       <property name="Mouser Part Number" value="637-BC817-40"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="NPN transistor, base/emitter/collector"/>
@@ -1339,8 +1142,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C73797"/>
       <property name="Mouser Part Number" value="652-CR0603AFX1001ELF"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1358,8 +1159,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C2974106"/>
       <property name="Mouser Part Number" value="652-CR2512-JW-122ELF"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1377,8 +1176,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C4202009"/>
       <property name="Mouser Part Number" value="71-CRCW04022K20JNEDC"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1396,8 +1193,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C3020235"/>
       <property name="Mouser Part Number" value="71-RCS040210K0FKED"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1415,8 +1210,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C73797"/>
       <property name="Mouser Part Number" value="652-CR0603AFX1001ELF"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1434,8 +1227,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C2974106"/>
       <property name="Mouser Part Number" value="652-CR2512-JW-122ELF"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1453,8 +1244,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C73797"/>
       <property name="Mouser Part Number" value="652-CR0603AFX1001ELF"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1472,8 +1261,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C854345"/>
       <property name="Mouser Part Number" value="667-ERJ-2RKF49R9X"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1491,8 +1278,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C854345"/>
       <property name="Mouser Part Number" value="667-ERJ-2RKF49R9X"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1510,8 +1295,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C854345"/>
       <property name="Mouser Part Number" value="667-ERJ-2RKF49R9X"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1524,13 +1307,10 @@
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <fields>
         <field name="LCSC/JLC Part Number">C105872</field>
-        <field name="OldStock">Yes</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C105872"/>
       <property name="Mouser Part Number" value=""/>
-      <property name="OldStock" value="Yes"/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1548,8 +1328,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C854345"/>
       <property name="Mouser Part Number" value="667-ERJ-2RKF49R9X"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1567,8 +1345,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C284422"/>
       <property name="Mouser Part Number" value="652-CR0402JW-221GLF"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1586,8 +1362,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C2974106"/>
       <property name="Mouser Part Number" value="652-CR2512-JW-122ELF"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1605,8 +1379,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C284422"/>
       <property name="Mouser Part Number" value="652-CR0402JW-221GLF"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1624,8 +1396,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C2974106"/>
       <property name="Mouser Part Number" value="652-CR2512-JW-122ELF"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1643,8 +1413,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C4202009"/>
       <property name="Mouser Part Number" value="71-CRCW04022K20JNEDC"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1662,8 +1430,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C844564"/>
       <property name="Mouser Part Number" value="71-CRCW0603470RFKEAC"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1681,8 +1447,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C3020235"/>
       <property name="Mouser Part Number" value="71-RCS040210K0FKED"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1700,8 +1464,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C2930059"/>
       <property name="Mouser Part Number" value="652-CR0603FX-1212ELF"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1719,8 +1481,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C73797"/>
       <property name="Mouser Part Number" value="652-CR0603AFX1001ELF"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1738,8 +1498,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C3020235"/>
       <property name="Mouser Part Number" value="71-RCS040210K0FKED"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1757,8 +1515,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C3020235"/>
       <property name="Mouser Part Number" value="71-RCS040210K0FKED"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1776,8 +1532,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C3020235"/>
       <property name="Mouser Part Number" value="71-RCS040210K0FKED"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1795,8 +1549,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C284422"/>
       <property name="Mouser Part Number" value="652-CR0402JW-221GLF"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1814,8 +1566,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C73797"/>
       <property name="Mouser Part Number" value="652-CR0603AFX1001ELF"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1833,8 +1583,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C73797"/>
       <property name="Mouser Part Number" value="652-CR0603AFX1001ELF"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1852,8 +1600,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C319920"/>
       <property name="Mouser Part Number" value="279-CPF0603F10RC1"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1871,8 +1617,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C102797"/>
       <property name="Mouser Part Number" value="652-CR0402FX-1303GLF"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1890,8 +1634,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C3020235"/>
       <property name="Mouser Part Number" value="71-RCS040210K0FKED"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1909,8 +1651,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C319920"/>
       <property name="Mouser Part Number" value="279-CPF0603F10RC1"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1928,8 +1668,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C844564"/>
       <property name="Mouser Part Number" value="71-CRCW0603470RFKEAC"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1947,8 +1685,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C73797"/>
       <property name="Mouser Part Number" value="652-CR0603AFX1001ELF"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1966,8 +1702,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C73797"/>
       <property name="Mouser Part Number" value="652-CR0603AFX1001ELF"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1985,8 +1719,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C73797"/>
       <property name="Mouser Part Number" value="652-CR0603AFX1001ELF"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -2004,8 +1736,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C73797"/>
       <property name="Mouser Part Number" value="652-CR0603AFX1001ELF"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -2023,8 +1753,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C73797"/>
       <property name="Mouser Part Number" value="652-CR0603AFX1001ELF"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -2037,13 +1765,10 @@
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <fields>
         <field name="LCSC/JLC Part Number">C105872</field>
-        <field name="OldStock">Yes</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C105872"/>
       <property name="Mouser Part Number" value=""/>
-      <property name="OldStock" value="Yes"/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -2056,12 +1781,9 @@
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <fields>
         <field name="LCSC/JLC Part Number">C163478</field>
-        <field name="NewPart">Yes</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="OldStock" value=""/>
       <property name="LCSC/JLC Part Number" value="C163478"/>
-      <property name="NewPart" value="Yes"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -2074,12 +1796,9 @@
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <fields>
         <field name="LCSC/JLC Part Number">C60491</field>
-        <field name="NewPart">Yes</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="OldStock" value=""/>
       <property name="LCSC/JLC Part Number" value="C60491"/>
-      <property name="NewPart" value="Yes"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -2097,8 +1816,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C852664"/>
       <property name="Mouser Part Number" value="652-CR0402FX-2492GLF"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -2116,8 +1833,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C364850"/>
       <property name="Mouser Part Number" value="652-CR0402FX-1803GLF"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -2135,8 +1850,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C103045"/>
       <property name="Mouser Part Number" value="652-CR0402-FX4421GLF"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -2154,8 +1867,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C269368"/>
       <property name="Mouser Part Number" value="652-CR2512-JW-472ELF"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -2173,8 +1884,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C875624"/>
       <property name="Mouser Part Number" value="71-WSL1206R0300FEA"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -2192,8 +1901,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C514781"/>
       <property name="Mouser Part Number" value="652-CR0402-J/-4R7GLF"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -2211,8 +1918,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C2692912"/>
       <property name="Mouser Part Number" value="652-CR0402-FX2102GLF"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -2230,14 +1935,25 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="LCSC/JLC Part Number" value="C364989"/>
       <property name="Mouser Part Number" value="652-CR0402-JW-304GLF"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0da64899-fa4a-42e9-998c-4b4544179107</tstamps>
+    </comp>
+    <comp ref="Reset1">
+      <value>T1107A(6x3,8x2,5MM)</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm</footprint>
+      <fields>
+        <field name="LCSC/JLC Part Number">C97440</field>
+      </fields>
+      <libsource lib="import-Library" part="SIDE_WTCM-TR(3x4)" description=""/>
+      <property name="LCSC/JLC Part Number" value="C97440"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000580f1a95</tstamps>
     </comp>
     <comp ref="RN1">
       <value>2.2k/5%/0603x4</value>
@@ -2250,8 +1966,6 @@
       <libsource lib="SamacSys_Parts" part="CAY16-222J4LF" description="Bourns CAY16 Series 2.2k +/-5% Isolated SMT Resistor Array, 4 Resistors, 0.25W total 1206 (3216M) package Convex"/>
       <property name="Mouser Part Number" value="652-CAT16A-222J4LF"/>
       <property name="LCSC/JLC Part Number" value="C102658"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Bourns CAY16 Series 2.2k +/-5% Isolated SMT Resistor Array, 4 Resistors, 0.25W total 1206 (3216M) package Convex"/>
@@ -2269,28 +1983,11 @@
       <libsource lib="SamacSys_Parts" part="CAY16-222J4LF" description="Bourns CAY16 Series 2.2k +/-5% Isolated SMT Resistor Array, 4 Resistors, 0.25W total 1206 (3216M) package Convex"/>
       <property name="Mouser Part Number" value="652-CAT16A-222J4LF"/>
       <property name="LCSC/JLC Part Number" value="C102658"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="Bourns CAY16 Series 2.2k +/-5% Isolated SMT Resistor Array, 4 Resistors, 0.25W total 1206 (3216M) package Convex"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5d393d8e-6fc4-419c-9a8c-8534c6c16096</tstamps>
-    </comp>
-    <comp ref="RST1">
-      <value>T1107A(6x3,8x2,5MM)</value>
-      <footprint>Button_Switch_THT:SW_PUSH_6mm</footprint>
-      <fields>
-        <field name="LCSC/JLC Part Number">C97440</field>
-      </fields>
-      <libsource lib="import-Library" part="SIDE_WTCM-TR(3x4)" description=""/>
-      <property name="LCSC/JLC Part Number" value="C97440"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-0000580f1a95</tstamps>
     </comp>
     <comp ref="T1">
       <value>LMUN2211LT1G(SOT-23)</value>
@@ -2300,16 +1997,14 @@
       </fields>
       <libsource lib="SamacSys_Parts" part="LMUN2211LT1G(SOT-23)" description=""/>
       <property name="LCSC/JLC Part Number" value="C12775"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5279f132-ad4f-41a7-a6be-2297d0142388</tstamps>
     </comp>
     <comp ref="TVS2">
-      <value>ESDS314DBVR(SOT-23-5)</value>
-      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <value>ESDS314DBVR(SOT-23-6)</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
       <datasheet>https://www.ti.com/lit/gpn/esds314</datasheet>
       <fields>
         <field name="LCSC/JLC Part Number">C1847859</field>
@@ -2318,8 +2013,6 @@
       <libsource lib="SamacSys_Parts" part="ESDS314DBVR(SOT-23-5)" description=""/>
       <property name="LCSC/JLC Part Number" value="C1847859"/>
       <property name="Mouser Part Number" value="595-ESDS314DBVR"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -2335,8 +2028,6 @@
       <libsource lib="SamacSys_Parts" part="LAN8710A-EZC(QFN32)" description=""/>
       <property name="LCSC/JLC Part Number" value="C46185"/>
       <property name="Mouser Part Number" value="886-LAN8710A-EZC-TR"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -2348,12 +2039,9 @@
       <datasheet>https://datasheet.lcsc.com/szlcsc/Jiangsu-Qin-Heng-CH340C_C84681.pdf</datasheet>
       <fields>
         <field name="LCSC/JLC Part Number">C84681</field>
-        <field name="NewPart">Yes</field>
       </fields>
       <libsource lib="Interface_USB" part="CH340C" description="USB serial converter, UART, SOIC-16"/>
       <property name="LCSC/JLC Part Number" value="C84681"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value="Yes"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <property name="ki_description" value="USB serial converter, UART, SOIC-16"/>
@@ -2371,8 +2059,6 @@
       <libsource lib="SamacSys_Parts" part="ESP-WROOM-32" description=""/>
       <property name="LCSC/JLC Part Number" value="C701341"/>
       <property name="Mouser Part Number" value="356-ESP32WRM32E132PH"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -2389,8 +2075,6 @@
       <libsource lib="SamacSys_Parts" part="TPS2375PW(TSSOP-8)" description=""/>
       <property name="LCSC/JLC Part Number" value="C544899"/>
       <property name="Mouser Part Number" value="595-TPS2376D"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -2405,8 +2089,6 @@
       </fields>
       <libsource lib="SamacSys_Parts" part="TX4138(ESOIC-8)" description=""/>
       <property name="LCSC/JLC Part Number" value="C329267"/>
-      <property name="OldStock" value=""/>
-      <property name="NewPart" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ESP32-POE-Wiegand-Relay-REV-B.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -2566,6 +2248,30 @@
         <pin num="B9" name="VBUS" type="passive"/>
         <pin num="B12" name="GND" type="passive"/>
         <pin num="S1" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x10">
+      <description>Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x10</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="Device" part="C">
@@ -2954,6 +2660,7 @@
       </pins>
     </libpart>
     <libpart lib="SamacSys_Parts" part="ESDS314DBVR(SOT-23-5)">
+      <docs>https://www.ti.com/lit/gpn/esds314</docs>
       <footprints>
         <fp>Diode_*</fp>
         <fp>D-Pak_TO252AA</fp>
@@ -2962,15 +2669,20 @@
         <fp>*_Diode_*</fp>
       </footprints>
       <fields>
-        <field name="Reference">TVS</field>
+        <field name="Reference">TVS2</field>
         <field name="Value">ESDS314DBVR(SOT-23-5)</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-6</field>
+        <field name="Datasheet">https://www.ti.com/lit/gpn/esds314</field>
+        <field name="Mouser Part Number">595-ESDS314DBVR</field>
+        <field name="LCSC/JLC Part Number">C1847859</field>
       </fields>
       <pins>
         <pin num="1" name="I/O1" type="passive"/>
         <pin num="2" name="GND" type="passive"/>
         <pin num="3" name="I/O2" type="passive"/>
         <pin num="4" name="I/O3" type="passive"/>
-        <pin num="5" name="I/O4" type="passive"/>
+        <pin num="5" name="" type="no_connect"/>
+        <pin num="6" name="I/O4" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="SamacSys_Parts" part="ESP-WROOM-32">
@@ -3306,6 +3018,9 @@
     <library logical="Connector">
       <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector.kicad_sym</uri>
     </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
     <library logical="Device">
       <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
     </library>
@@ -3319,7 +3034,7 @@
       <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Power_Protection.kicad_sym</uri>
     </library>
     <library logical="SamacSys_Parts">
-      <uri>C:\Users\Pixi\OneDrive\Documents\CAO\esp32-poe-wiegand-relay\Hardware\REV-B/LIB/SamacSys_Parts.kicad_sym</uri>
+      <uri>C:\Users\Pixi\OneDrive\Documents\CAO\Pony-Card-WRS4i2o\Hardware\REV-B/LIB/SamacSys_Parts.kicad_sym</uri>
     </library>
   </libraries>
   <nets>
@@ -3331,6 +3046,7 @@
       <node ref="C5" pin="1" pintype="passive"/>
       <node ref="FET1" pin="2" pintype="passive"/>
       <node ref="IC4" pin="8" pinfunction="VCC" pintype="passive"/>
+      <node ref="J8" pin="6" pinfunction="Pin_6" pintype="passive"/>
       <node ref="L3" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="R22" pin="1" pintype="passive"/>
       <node ref="R24" pin="1" pintype="passive"/>
@@ -3400,188 +3116,193 @@
       <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="J5" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="12" name="/D_Com">
+    <net code="12" name="/DTR#">
+      <node ref="J8" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="Q4" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R27" pin="1" pintype="passive"/>
+      <node ref="U2" pin="13" pinfunction="~{DTR}" pintype="output"/>
+    </net>
+    <net code="13" name="/D_Com">
       <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="R25" pin="1" pintype="passive"/>
     </net>
-    <net code="13" name="/ESP_EN">
-      <node ref="C31" pin="2" pintype="passive"/>
-      <node ref="D16" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="R24" pin="2" pintype="passive"/>
-      <node ref="RST1" pin="1" pintype="passive"/>
-      <node ref="U3" pin="3" pinfunction="EN" pintype="input"/>
-    </net>
-    <net code="14" name="/GPI34{slash}Input1">
-      <node ref="IC2" pin="6" pinfunction="C_3" pintype="passive"/>
-      <node ref="R35" pin="1" pintype="passive"/>
-      <node ref="U3" pin="6" pinfunction="GPI34/ADC1_CH6/RTC_GPIO4" pintype="input"/>
-    </net>
-    <net code="15" name="/GPI35{slash}Input2">
-      <node ref="IC2" pin="8" pinfunction="C_4" pintype="passive"/>
-      <node ref="R34" pin="1" pintype="passive"/>
-      <node ref="U3" pin="7" pinfunction="GPI35/ADC1_CH7/RTC_GPIO5" pintype="input"/>
-    </net>
-    <net code="16" name="/GPI36{slash}Input3">
-      <node ref="IC3" pin="6" pinfunction="C_3" pintype="passive"/>
-      <node ref="R37" pin="1" pintype="passive"/>
-      <node ref="U3" pin="4" pinfunction="GPI36/SENSOR_VP/ADC_H/ADC1_CH0/RTC_GPIO0" pintype="input"/>
-    </net>
-    <net code="17" name="/GPI39{slash}Input4">
-      <node ref="IC3" pin="8" pinfunction="C_4" pintype="passive"/>
-      <node ref="R36" pin="1" pintype="passive"/>
-      <node ref="U3" pin="5" pinfunction="GPI39/SENSOR_VN/ADC1_CH3/ADC_H/RTC_GPIO3" pintype="input"/>
-    </net>
-    <net code="18" name="/GPIO0">
-      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="U3" pin="25" pinfunction="GPIO0/ADC2_CH1/TOUCH1/RTC_GPIO11/CLK_OUT1/EMAC_TX_CLK" pintype="bidirectional"/>
-    </net>
-    <net code="19" name="/GPIO1{slash}UART_TX0">
-      <node ref="U2" pin="3" pinfunction="RXD" pintype="input"/>
-      <node ref="U3" pin="35" pinfunction="GPIO1/U0TXD/CLK_OUT3/EMAC_RXD2" pintype="bidirectional"/>
-    </net>
-    <net code="20" name="/GPIO2">
-      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="U3" pin="24" pinfunction="GPIO2/ADC2_CH2/TOUCH2/RTC_GPIO12/HSPIWP/HS2_DATA0/SD_DATA0" pintype="bidirectional"/>
-    </net>
-    <net code="21" name="/GPIO3{slash}UART_RX0">
-      <node ref="U2" pin="2" pinfunction="TXD" pintype="output"/>
-      <node ref="U3" pin="34" pinfunction="GPIO3/U0RXD/CLK_OUT2" pintype="bidirectional"/>
-    </net>
-    <net code="22" name="/GPIO4">
-      <node ref="U3" pin="26" pinfunction="GPIO4/ADC2_CH0/TOUCH0/RTC_GPIO10/HSPIHD/HS2_DATA1/SD_DATA1/EMAC_TX_ER" pintype="bidirectional+no_connect"/>
-    </net>
-    <net code="23" name="/GPIO5">
-      <node ref="U3" pin="29" pinfunction="GPIO5/VSPICS0/HS1_DATA6/EMAC_RX_CLK" pintype="bidirectional+no_connect"/>
-    </net>
-    <net code="24" name="/GPIO12{slash}PHY_PWR">
-      <node ref="T1" pin="1" pinfunction="B" pintype="passive"/>
-      <node ref="U3" pin="14" pinfunction="GPIO12/ADC2_CH5/TOUCH5/RTC_GPIO15/MTDI/HSPIQ/HS2_DATA2/SD_DATA2/EMAC_TXD3" pintype="bidirectional"/>
-    </net>
-    <net code="25" name="/GPIO13{slash}Wiegand_D0{slash}RS485_RX">
-      <node ref="IC4" pin="1" pinfunction="R" pintype="passive"/>
-      <node ref="R18" pin="2" pintype="passive"/>
-      <node ref="R21" pin="2" pintype="passive"/>
-      <node ref="R22" pin="2" pintype="passive"/>
-      <node ref="U3" pin="16" pinfunction="GPIO13/ADC2_CH4/TOUCH4/RTC_GPIO14/MTCK/HSPID/HS2_DATA3/SD_DATA3/EMAC_RX_ER" pintype="bidirectional"/>
-    </net>
-    <net code="26" name="/GPIO14{slash}Wiegand_D1{slash}RS485_TX">
-      <node ref="IC4" pin="4" pinfunction="D" pintype="passive"/>
-      <node ref="R32" pin="2" pintype="passive"/>
-      <node ref="R33" pin="2" pintype="passive"/>
-      <node ref="U3" pin="13" pinfunction="GPIO14/ADC2_CH6/TOUCH6/RTC_GPIO16/MTMS/HSPICLK/HS2_CLK/SD_CLK/EMAC_TXD2" pintype="bidirectional"/>
-    </net>
-    <net code="27" name="/GPIO15{slash}Wiegand_LED{slash}RS485_DIR">
-      <node ref="IC4" pin="2" pinfunction="~{RE}" pintype="passive"/>
-      <node ref="IC4" pin="3" pinfunction="DE" pintype="passive"/>
-      <node ref="Q5" pin="1" pinfunction="B" pintype="input"/>
-      <node ref="R23" pin="1" pintype="passive"/>
-      <node ref="U3" pin="23" pinfunction="GPIO15/ADC2_CH3/TOUCH3/MTDO/HSPICS0/RTC_GPIO13/HS2_CMD/SD_CMD/EMAC_RXD3" pintype="bidirectional"/>
-    </net>
-    <net code="28" name="/GPIO16">
-      <node ref="U3" pin="27" pinfunction="GPIO16/HS1_DATA4/U2RXD/EMAC_CLK_OUT" pintype="bidirectional+no_connect"/>
-    </net>
-    <net code="29" name="/GPIO17{slash}EMAC_CLK_OUT_180">
+    <net code="14" name="/EMAC_CLK_OUT_180">
       <node ref="U1" pin="5" pinfunction="XTAL1/CLKIN" pintype="input"/>
       <node ref="U3" pin="28" pinfunction="GPIO17/HS1_DATA5/U2TXD/EMAC_CLK_OUT_180" pintype="bidirectional"/>
     </net>
-    <net code="30" name="/GPIO18{slash}MDIO(RMII)">
-      <node ref="RN1" pin="3" pinfunction="R3_1" pintype="passive"/>
-      <node ref="U1" pin="16" pinfunction="MDIO" pintype="bidirectional"/>
-      <node ref="U3" pin="30" pinfunction="GPIO18/VSPICLK/HS1_DATA7" pintype="bidirectional"/>
-    </net>
-    <net code="31" name="/GPIO19{slash}EMAC_TXD0(RMII)">
-      <node ref="U1" pin="22" pinfunction="TXD0" pintype="input"/>
-      <node ref="U3" pin="31" pinfunction="GPIO19/VSPIQ/U0CTS/EMAC_TXD0" pintype="bidirectional"/>
-    </net>
-    <net code="32" name="/GPIO21{slash}EMAC_TX_EN(RMII)">
-      <node ref="U1" pin="21" pinfunction="TXEN" pintype="input"/>
-      <node ref="U3" pin="33" pinfunction="GPIO21/VSPIHD/EMAC_TX_EN" pintype="bidirectional"/>
-    </net>
-    <net code="33" name="/GPIO22{slash}EMAC_TXD1(RMII)">
-      <node ref="U1" pin="23" pinfunction="TXD1" pintype="input"/>
-      <node ref="U3" pin="36" pinfunction="GPIO22/VSPIWP/U0RTS/EMAC_TXD1" pintype="bidirectional"/>
-    </net>
-    <net code="34" name="/GPIO23{slash}MDC(RMII)">
-      <node ref="U1" pin="17" pinfunction="MDC" pintype="input"/>
-      <node ref="U3" pin="37" pinfunction="GPIO23/VSPID/HS1_STROBE" pintype="bidirectional"/>
-    </net>
-    <net code="35" name="/GPIO25{slash}EMAC_RXD0(RMII)">
+    <net code="15" name="/EMAC_RXD0(RMII)">
       <node ref="RN1" pin="2" pinfunction="R2_1" pintype="passive"/>
       <node ref="U1" pin="11" pinfunction="RXD0/MODE0" pintype="bidirectional"/>
       <node ref="U3" pin="10" pinfunction="GPIO25/DAC_1/ADC2_CH8/RTC_GPIO6/EMAC_RXD0" pintype="bidirectional"/>
     </net>
-    <net code="36" name="/GPIO26{slash}EMAC_RXD1(RMII)">
+    <net code="16" name="/EMAC_RXD1(RMII)">
       <node ref="RN1" pin="1" pinfunction="R1_1" pintype="passive"/>
       <node ref="U1" pin="10" pinfunction="RXD1/MODE1" pintype="bidirectional"/>
       <node ref="U3" pin="11" pinfunction="GPIO26/DAC_2/ADC2_CH9/RTC_GPIO7/EMAC_RXD1" pintype="bidirectional"/>
     </net>
-    <net code="37" name="/GPIO27{slash}EMAC_RX_CRS_DV">
+    <net code="17" name="/EMAC_RX_CRS_DV">
       <node ref="RN1" pin="4" pinfunction="R4_1" pintype="passive"/>
       <node ref="U1" pin="15" pinfunction="COL/CRS_DV/MODE2" pintype="bidirectional"/>
       <node ref="U3" pin="12" pinfunction="GPIO27/ADC2_CH7/TOUCH7/RTC_GPIO17/EMAC_RX_DV" pintype="bidirectional"/>
     </net>
-    <net code="38" name="/GPIO32{slash}REL1">
-      <node ref="R1" pin="1" pintype="passive"/>
-      <node ref="U3" pin="8" pinfunction="GPIO32/XTAL_32K_P/ADC1_CH4/TOUCH9/RTC_GPIO9" pintype="bidirectional"/>
+    <net code="18" name="/EMAC_TXD0(RMII)">
+      <node ref="U1" pin="22" pinfunction="TXD0" pintype="input"/>
+      <node ref="U3" pin="31" pinfunction="GPIO19/VSPIQ/U0CTS/EMAC_TXD0" pintype="bidirectional"/>
     </net>
-    <net code="39" name="/GPIO33{slash}REL2">
-      <node ref="R5" pin="1" pintype="passive"/>
-      <node ref="U3" pin="9" pinfunction="GPIO33/XTAL_32K_N/ADC1_CH5/TOUCH8/RTC_GPIO8" pintype="bidirectional"/>
+    <net code="19" name="/EMAC_TXD1(RMII)">
+      <node ref="U1" pin="23" pinfunction="TXD1" pintype="input"/>
+      <node ref="U3" pin="36" pinfunction="GPIO22/VSPIWP/U0RTS/EMAC_TXD1" pintype="bidirectional"/>
     </net>
-    <net code="40" name="/RD+">
+    <net code="20" name="/EMAC_TX_EN">
+      <node ref="U1" pin="21" pinfunction="TXEN" pintype="input"/>
+      <node ref="U3" pin="33" pinfunction="GPIO21/VSPIHD/EMAC_TX_EN" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="/ESP_EN">
+      <node ref="C31" pin="2" pintype="passive"/>
+      <node ref="D16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+      <node ref="Reset1" pin="1" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="22" name="/GPIO0">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U3" pin="25" pinfunction="GPIO0/ADC2_CH1/TOUCH1/RTC_GPIO11/CLK_OUT1/EMAC_TX_CLK" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="/GPIO2">
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J8" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="U3" pin="24" pinfunction="GPIO2/ADC2_CH2/TOUCH2/RTC_GPIO12/HSPIWP/HS2_DATA0/SD_DATA0" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="/GPIO4">
+      <node ref="J8" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="U3" pin="26" pinfunction="GPIO4/ADC2_CH0/TOUCH0/RTC_GPIO10/HSPIHD/HS2_DATA1/SD_DATA1/EMAC_TX_ER" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="/GPIO5">
+      <node ref="J8" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="U3" pin="29" pinfunction="GPIO5/VSPICS0/HS1_DATA6/EMAC_RX_CLK" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="/GPIO16">
+      <node ref="J8" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="U3" pin="27" pinfunction="GPIO16/HS1_DATA4/U2RXD/EMAC_CLK_OUT" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="/Input1">
+      <node ref="IC2" pin="6" pinfunction="C_3" pintype="passive"/>
+      <node ref="R35" pin="1" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="GPI34/ADC1_CH6/RTC_GPIO4" pintype="input"/>
+    </net>
+    <net code="28" name="/Input2">
+      <node ref="IC2" pin="8" pinfunction="C_4" pintype="passive"/>
+      <node ref="R34" pin="1" pintype="passive"/>
+      <node ref="U3" pin="7" pinfunction="GPI35/ADC1_CH7/RTC_GPIO5" pintype="input"/>
+    </net>
+    <net code="29" name="/Input3">
+      <node ref="IC3" pin="6" pinfunction="C_3" pintype="passive"/>
+      <node ref="R37" pin="1" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="GPI36/SENSOR_VP/ADC_H/ADC1_CH0/RTC_GPIO0" pintype="input"/>
+    </net>
+    <net code="30" name="/Input4">
+      <node ref="IC3" pin="8" pinfunction="C_4" pintype="passive"/>
+      <node ref="R36" pin="1" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="GPI39/SENSOR_VN/ADC1_CH3/ADC_H/RTC_GPIO3" pintype="input"/>
+    </net>
+    <net code="31" name="/MDC(RMII)">
+      <node ref="U1" pin="17" pinfunction="MDC" pintype="input"/>
+      <node ref="U3" pin="37" pinfunction="GPIO23/VSPID/HS1_STROBE" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="/MDIO(RMII)">
+      <node ref="RN1" pin="3" pinfunction="R3_1" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="MDIO" pintype="bidirectional"/>
+      <node ref="U3" pin="30" pinfunction="GPIO18/VSPICLK/HS1_DATA7" pintype="bidirectional"/>
+    </net>
+    <net code="33" name="/PHY_PWR">
+      <node ref="T1" pin="1" pinfunction="B" pintype="passive"/>
+      <node ref="U3" pin="14" pinfunction="GPIO12/ADC2_CH5/TOUCH5/RTC_GPIO15/MTDI/HSPIQ/HS2_DATA2/SD_DATA2/EMAC_TXD3" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="/RD+">
       <node ref="J3" pin="4" pinfunction="TRD2+" pintype="passive"/>
       <node ref="R9" pin="1" pintype="passive"/>
-      <node ref="TVS2" pin="5" pinfunction="I/O4" pintype="passive"/>
+      <node ref="TVS2" pin="6" pinfunction="I/O4" pintype="passive"/>
       <node ref="U1" pin="31" pinfunction="RXP" pintype="input"/>
     </net>
-    <net code="41" name="/RD-">
+    <net code="35" name="/RD-">
       <node ref="J3" pin="5" pinfunction="TRD2-" pintype="passive"/>
       <node ref="R8" pin="1" pintype="passive"/>
       <node ref="TVS2" pin="4" pinfunction="I/O3" pintype="passive"/>
       <node ref="U1" pin="30" pinfunction="RXN" pintype="input"/>
     </net>
-    <net code="42" name="/Relay_1_COM">
+    <net code="36" name="/REL1">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U3" pin="8" pinfunction="GPIO32/XTAL_32K_P/ADC1_CH4/TOUCH9/RTC_GPIO9" pintype="bidirectional"/>
+    </net>
+    <net code="37" name="/REL2">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U3" pin="9" pinfunction="GPIO33/XTAL_32K_N/ADC1_CH5/TOUCH8/RTC_GPIO8" pintype="bidirectional"/>
+    </net>
+    <net code="38" name="/RTS#">
+      <node ref="J8" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="Q3" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R26" pin="1" pintype="passive"/>
+      <node ref="U2" pin="14" pinfunction="~{RTS}" pintype="output"/>
+    </net>
+    <net code="39" name="/Relay_1_COM">
       <node ref="J6" pin="4" pinfunction="4" pintype="passive"/>
       <node ref="K1" pin="2" pinfunction="COM" pintype="passive"/>
     </net>
-    <net code="43" name="/Relay_1_NC">
+    <net code="40" name="/Relay_1_NC">
       <node ref="J6" pin="6" pinfunction="6" pintype="passive"/>
       <node ref="K1" pin="4" pinfunction="NC" pintype="passive"/>
     </net>
-    <net code="44" name="/Relay_1_NO">
+    <net code="41" name="/Relay_1_NO">
       <node ref="J6" pin="5" pinfunction="5" pintype="passive"/>
       <node ref="K1" pin="3" pinfunction="NO" pintype="passive"/>
     </net>
-    <net code="45" name="/Relay_2_COM">
+    <net code="42" name="/Relay_2_COM">
       <node ref="J6" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="K2" pin="2" pinfunction="COM" pintype="passive"/>
     </net>
-    <net code="46" name="/Relay_2_NC">
+    <net code="43" name="/Relay_2_NC">
       <node ref="J6" pin="3" pinfunction="3" pintype="passive"/>
       <node ref="K2" pin="4" pinfunction="NC" pintype="passive"/>
     </net>
-    <net code="47" name="/Relay_2_NO">
+    <net code="44" name="/Relay_2_NO">
       <node ref="J6" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="K2" pin="3" pinfunction="NO" pintype="passive"/>
     </net>
-    <net code="48" name="/TD+">
+    <net code="45" name="/TD+">
       <node ref="J3" pin="11" pinfunction="TRD1+" pintype="passive"/>
       <node ref="R12" pin="1" pintype="passive"/>
       <node ref="TVS2" pin="3" pinfunction="I/O2" pintype="passive"/>
       <node ref="U1" pin="29" pinfunction="TXP" pintype="output"/>
     </net>
-    <net code="49" name="/TD-">
+    <net code="46" name="/TD-">
       <node ref="J3" pin="10" pinfunction="TRD1-" pintype="passive"/>
       <node ref="R10" pin="1" pintype="passive"/>
       <node ref="TVS2" pin="1" pinfunction="I/O1" pintype="passive"/>
       <node ref="U1" pin="28" pinfunction="TXN" pintype="output"/>
     </net>
-    <net code="50" name="/Wiegand_D0{slash}RS485_A">
+    <net code="47" name="/UART_RX0">
+      <node ref="J8" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="TXD" pintype="output"/>
+      <node ref="U3" pin="34" pinfunction="GPIO3/U0RXD/CLK_OUT2" pintype="bidirectional"/>
+    </net>
+    <net code="48" name="/UART_TX0">
+      <node ref="J8" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="RXD" pintype="input"/>
+      <node ref="U3" pin="35" pinfunction="GPIO1/U0TXD/CLK_OUT3/EMAC_RXD2" pintype="bidirectional"/>
+    </net>
+    <net code="49" name="/Wiegand_D0{slash}RS485_A">
       <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="J5" pin="11" pinfunction="11" pintype="passive"/>
       <node ref="R18" pin="1" pintype="passive"/>
       <node ref="R28" pin="2" pintype="passive"/>
+    </net>
+    <net code="50" name="/Wiegand_D0{slash}RS485_RX">
+      <node ref="IC4" pin="1" pinfunction="R" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="U3" pin="16" pinfunction="GPIO13/ADC2_CH4/TOUCH4/RTC_GPIO14/MTCK/HSPID/HS2_DATA3/SD_DATA3/EMAC_RX_ER" pintype="bidirectional"/>
     </net>
     <net code="51" name="/Wiegand_D1{slash}RS485_B">
       <node ref="D6" pin="2" pinfunction="K" pintype="passive"/>
@@ -3589,11 +3310,24 @@
       <node ref="R31" pin="2" pintype="passive"/>
       <node ref="R32" pin="1" pintype="passive"/>
     </net>
-    <net code="52" name="/Wiegand_LED">
+    <net code="52" name="/Wiegand_D1{slash}RS485_TX">
+      <node ref="IC4" pin="4" pinfunction="D" pintype="passive"/>
+      <node ref="R32" pin="2" pintype="passive"/>
+      <node ref="R33" pin="2" pintype="passive"/>
+      <node ref="U3" pin="13" pinfunction="GPIO14/ADC2_CH6/TOUCH6/RTC_GPIO16/MTMS/HSPICLK/HS2_CLK/SD_CLK/EMAC_TXD2" pintype="bidirectional"/>
+    </net>
+    <net code="53" name="/Wiegand_LED">
       <node ref="J5" pin="9" pinfunction="9" pintype="passive"/>
       <node ref="Q5" pin="3" pinfunction="C" pintype="passive"/>
     </net>
-    <net code="53" name="GND">
+    <net code="54" name="/Wiegand_LED{slash}RS485_DIR">
+      <node ref="IC4" pin="2" pinfunction="~{RE}" pintype="passive"/>
+      <node ref="IC4" pin="3" pinfunction="DE" pintype="passive"/>
+      <node ref="Q5" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="U3" pin="23" pinfunction="GPIO15/ADC2_CH3/TOUCH3/MTDO/HSPICS0/RTC_GPIO13/HS2_CMD/SD_CMD/EMAC_RXD3" pintype="bidirectional"/>
+    </net>
+    <net code="55" name="GND">
       <node ref="C10" pin="2" pintype="passive"/>
       <node ref="C11" pin="1" pintype="passive"/>
       <node ref="C12" pin="1" pintype="passive"/>
@@ -3626,6 +3360,7 @@
       <node ref="J4" pin="B12" pinfunction="GND" pintype="passive"/>
       <node ref="J4" pin="S1" pinfunction="SHIELD" pintype="passive"/>
       <node ref="J5" pin="12" pinfunction="12" pintype="passive"/>
+      <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="MH1" pin="1" pinfunction="GND1" pintype="passive"/>
       <node ref="MH2" pin="1" pinfunction="GND1" pintype="passive"/>
       <node ref="MH3" pin="1" pinfunction="GND1" pintype="passive"/>
@@ -3647,7 +3382,7 @@
       <node ref="RN2" pin="5" pinfunction="R4_2" pintype="passive"/>
       <node ref="RN2" pin="6" pinfunction="R3_2" pintype="passive"/>
       <node ref="RN2" pin="7" pinfunction="R2_2" pintype="passive"/>
-      <node ref="RST1" pin="2" pintype="passive"/>
+      <node ref="Reset1" pin="2" pintype="passive"/>
       <node ref="T1" pin="2" pinfunction="E" pintype="passive"/>
       <node ref="TVS2" pin="2" pinfunction="GND" pintype="passive"/>
       <node ref="U1" pin="24" pinfunction="TXD2" pintype="input"/>
@@ -3669,56 +3404,56 @@
       <node ref="U6" pin="5" pinfunction="RTN" pintype="power_out"/>
       <node ref="U7" pin="4" pinfunction="GND" pintype="power_in"/>
     </net>
-    <net code="54" name="Net-(C1-Pad2)">
+    <net code="56" name="Net-(C1-Pad2)">
       <node ref="C1" pin="2" pintype="passive"/>
       <node ref="FET1" pin="1" pintype="input"/>
       <node ref="R4" pin="2" pintype="passive"/>
       <node ref="R7" pin="2" pintype="passive"/>
     </net>
-    <net code="55" name="Net-(C3-Pad2)">
+    <net code="57" name="Net-(C3-Pad2)">
       <node ref="C3" pin="2" pintype="passive"/>
       <node ref="J3" pin="MH1" pinfunction="MH1" pintype="passive"/>
       <node ref="J3" pin="MH2" pinfunction="MH2" pintype="passive"/>
     </net>
-    <net code="56" name="Net-(C37-Pad2)">
+    <net code="58" name="Net-(C37-Pad2)">
       <node ref="C37" pin="2" pintype="passive"/>
       <node ref="R55" pin="2" pintype="passive"/>
     </net>
-    <net code="57" name="Net-(D1-A)">
+    <net code="59" name="Net-(D1-A)">
       <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="K1" pin="5" pinfunction="COIL_2" pintype="passive"/>
       <node ref="LED1" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="Q1" pin="3" pinfunction="C" pintype="passive"/>
     </net>
-    <net code="58" name="Net-(D3-A)">
+    <net code="60" name="Net-(D3-A)">
       <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="K2" pin="5" pinfunction="COIL_2" pintype="passive"/>
       <node ref="LED2" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="Q2" pin="3" pinfunction="C" pintype="passive"/>
     </net>
-    <net code="59" name="Net-(D4-K)">
+    <net code="61" name="Net-(D4-K)">
       <node ref="C37" pin="1" pintype="passive"/>
       <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U7" pin="1" pinfunction="SW" pintype="output"/>
     </net>
-    <net code="60" name="Net-(D7-A)">
+    <net code="62" name="Net-(D7-A)">
       <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="IC2" pin="2" pinfunction="C_1" pintype="passive"/>
     </net>
-    <net code="61" name="Net-(D8-A)">
+    <net code="63" name="Net-(D8-A)">
       <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="IC2" pin="4" pinfunction="C_2" pintype="passive"/>
     </net>
-    <net code="62" name="Net-(D10-A)">
+    <net code="64" name="Net-(D10-A)">
       <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="IC3" pin="2" pinfunction="C_1" pintype="passive"/>
     </net>
-    <net code="63" name="Net-(D11-A)">
+    <net code="65" name="Net-(D11-A)">
       <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="IC3" pin="4" pinfunction="C_2" pintype="passive"/>
     </net>
-    <net code="64" name="Net-(D12-A)">
+    <net code="66" name="Net-(D12-A)">
       <node ref="C11" pin="2" pintype="passive"/>
       <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="J4" pin="A4" pinfunction="VBUS" pintype="passive"/>
@@ -3727,58 +3462,58 @@
       <node ref="J4" pin="B9" pinfunction="VBUS" pintype="passive"/>
       <node ref="U2" pin="16" pinfunction="VCC" pintype="power_in"/>
     </net>
-    <net code="65" name="Net-(D13-A)">
+    <net code="67" name="Net-(D13-A)">
       <node ref="C38" pin="1" pintype="passive"/>
       <node ref="C39" pin="1" pintype="passive"/>
       <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="R60" pin="1" pintype="passive"/>
     </net>
-    <net code="66" name="Net-(D16-K)">
+    <net code="68" name="Net-(D16-K)">
       <node ref="D16" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="Q3" pin="3" pinfunction="C" pintype="passive"/>
     </net>
-    <net code="67" name="Net-(IC2-A_1)">
+    <net code="69" name="Net-(IC2-A_1)">
       <node ref="IC2" pin="1" pinfunction="A_1" pintype="passive"/>
       <node ref="R14" pin="2" pintype="passive"/>
     </net>
-    <net code="68" name="Net-(IC2-A_2)">
+    <net code="70" name="Net-(IC2-A_2)">
       <node ref="IC2" pin="3" pinfunction="A_2" pintype="passive"/>
       <node ref="R16" pin="2" pintype="passive"/>
     </net>
-    <net code="69" name="Net-(IC3-A_1)">
+    <net code="71" name="Net-(IC3-A_1)">
       <node ref="IC3" pin="1" pinfunction="A_1" pintype="passive"/>
       <node ref="R2" pin="2" pintype="passive"/>
     </net>
-    <net code="70" name="Net-(IC3-A_2)">
+    <net code="72" name="Net-(IC3-A_2)">
       <node ref="IC3" pin="3" pinfunction="A_2" pintype="passive"/>
       <node ref="R6" pin="2" pintype="passive"/>
     </net>
-    <net code="71" name="Net-(IC4-A)">
+    <net code="73" name="Net-(IC4-A)">
       <node ref="IC4" pin="6" pinfunction="A" pintype="passive"/>
       <node ref="R31" pin="1" pintype="passive"/>
     </net>
-    <net code="72" name="Net-(IC4-B)">
+    <net code="74" name="Net-(IC4-B)">
       <node ref="IC4" pin="7" pinfunction="B" pintype="passive"/>
       <node ref="R28" pin="1" pintype="passive"/>
     </net>
-    <net code="73" name="Net-(J3-LED_G+)">
+    <net code="75" name="Net-(J3-LED_G+)">
       <node ref="J3" pin="19" pinfunction="LED_G+" pintype="passive"/>
       <node ref="R13" pin="2" pintype="passive"/>
     </net>
-    <net code="74" name="Net-(J3-LED_G-)">
+    <net code="76" name="Net-(J3-LED_G-)">
       <node ref="J3" pin="20" pinfunction="LED_G-" pintype="passive"/>
       <node ref="U1" pin="2" pinfunction="LED2/NINTSEL" pintype="bidirectional"/>
     </net>
-    <net code="75" name="Net-(J3-LED_Y+)">
+    <net code="77" name="Net-(J3-LED_Y+)">
       <node ref="J3" pin="18" pinfunction="LED_Y+" pintype="passive"/>
       <node ref="U1" pin="3" pinfunction="LED1/REGOFF" pintype="bidirectional"/>
     </net>
-    <net code="76" name="Net-(J3-LED_Y-)">
+    <net code="78" name="Net-(J3-LED_Y-)">
       <node ref="J3" pin="17" pinfunction="LED_Y-" pintype="passive"/>
       <node ref="R15" pin="2" pintype="passive"/>
     </net>
-    <net code="77" name="Net-(J3-TRCT1)">
+    <net code="79" name="Net-(J3-TRCT1)">
       <node ref="C10" pin="1" pintype="passive"/>
       <node ref="C25" pin="1" pintype="passive"/>
       <node ref="C4" pin="1" pintype="passive"/>
@@ -3794,82 +3529,72 @@
       <node ref="U1" pin="1" pinfunction="VDD2A" pintype="power_in"/>
       <node ref="U1" pin="27" pinfunction="VDD1A" pintype="power_in"/>
     </net>
-    <net code="78" name="Net-(J3-VC1)">
+    <net code="80" name="Net-(J3-VC1)">
       <node ref="D15" pin="2" pintype="passive"/>
       <node ref="J3" pin="13" pinfunction="VC1" pintype="passive"/>
     </net>
-    <net code="79" name="Net-(J3-VC2)">
+    <net code="81" name="Net-(J3-VC2)">
       <node ref="D15" pin="1" pintype="passive"/>
       <node ref="J3" pin="14" pinfunction="VC2" pintype="passive"/>
     </net>
-    <net code="80" name="Net-(J3-VC3)">
+    <net code="82" name="Net-(J3-VC3)">
       <node ref="D14" pin="2" pintype="passive"/>
       <node ref="J3" pin="15" pinfunction="VC3" pintype="passive"/>
     </net>
-    <net code="81" name="Net-(J3-VC4)">
+    <net code="83" name="Net-(J3-VC4)">
       <node ref="D14" pin="1" pintype="passive"/>
       <node ref="J3" pin="16" pinfunction="VC4" pintype="passive"/>
     </net>
-    <net code="82" name="Net-(J4-CC1)">
+    <net code="84" name="Net-(J4-CC1)">
       <node ref="J4" pin="A5" pinfunction="CC1" pintype="bidirectional"/>
       <node ref="R11" pin="1" pintype="passive"/>
     </net>
-    <net code="83" name="Net-(J4-CC2)">
+    <net code="85" name="Net-(J4-CC2)">
       <node ref="J4" pin="B5" pinfunction="CC2" pintype="bidirectional"/>
       <node ref="R38" pin="1" pintype="passive"/>
     </net>
-    <net code="84" name="Net-(LED1-A)">
+    <net code="86" name="Net-(LED1-A)">
       <node ref="LED1" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="R17" pin="1" pintype="passive"/>
     </net>
-    <net code="85" name="Net-(LED2-A)">
+    <net code="87" name="Net-(LED2-A)">
       <node ref="LED2" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="R3" pin="1" pintype="passive"/>
     </net>
-    <net code="86" name="Net-(PS1-BOOT)">
+    <net code="88" name="Net-(PS1-BOOT)">
       <node ref="C15" pin="2" pintype="passive"/>
       <node ref="PS1" pin="6" pinfunction="BOOT" pintype="output"/>
     </net>
-    <net code="87" name="Net-(PS1-FB)">
+    <net code="89" name="Net-(PS1-FB)">
       <node ref="C5" pin="2" pintype="passive"/>
       <node ref="PS1" pin="4" pinfunction="FB" pintype="input"/>
       <node ref="R39" pin="1" pintype="passive"/>
       <node ref="R42" pin="2" pintype="passive"/>
     </net>
-    <net code="88" name="Net-(PS1-SW)">
+    <net code="90" name="Net-(PS1-SW)">
       <node ref="C15" pin="1" pintype="passive"/>
       <node ref="L3" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="PS1" pin="2" pinfunction="SW" pintype="output"/>
     </net>
-    <net code="89" name="Net-(Q1-B)">
+    <net code="91" name="Net-(Q1-B)">
       <node ref="Q1" pin="1" pinfunction="B" pintype="input"/>
       <node ref="R1" pin="2" pintype="passive"/>
     </net>
-    <net code="90" name="Net-(Q2-B)">
+    <net code="92" name="Net-(Q2-B)">
       <node ref="Q2" pin="1" pinfunction="B" pintype="input"/>
       <node ref="R5" pin="2" pintype="passive"/>
     </net>
-    <net code="91" name="Net-(Q3-B)">
+    <net code="93" name="Net-(Q3-B)">
       <node ref="Q3" pin="1" pinfunction="B" pintype="input"/>
       <node ref="R27" pin="2" pintype="passive"/>
     </net>
-    <net code="92" name="Net-(Q3-E)">
-      <node ref="Q3" pin="2" pinfunction="E" pintype="passive"/>
-      <node ref="R26" pin="1" pintype="passive"/>
-      <node ref="U2" pin="14" pinfunction="~{RTS}" pintype="output"/>
-    </net>
-    <net code="93" name="Net-(Q4-B)">
+    <net code="94" name="Net-(Q4-B)">
       <node ref="Q4" pin="1" pinfunction="B" pintype="input"/>
       <node ref="R26" pin="2" pintype="passive"/>
     </net>
-    <net code="94" name="Net-(Q4-C)">
+    <net code="95" name="Net-(Q4-C)">
       <node ref="Q4" pin="3" pinfunction="C" pintype="passive"/>
       <node ref="R25" pin="2" pintype="passive"/>
-    </net>
-    <net code="95" name="Net-(Q4-E)">
-      <node ref="Q4" pin="2" pinfunction="E" pintype="passive"/>
-      <node ref="R27" pin="1" pintype="passive"/>
-      <node ref="U2" pin="13" pinfunction="~{DTR}" pintype="output"/>
     </net>
     <net code="96" name="Net-(R53-Pad1)">
       <node ref="R53" pin="1" pintype="passive"/>
@@ -3954,7 +3679,7 @@
       <node ref="R60" pin="2" pintype="passive"/>
       <node ref="U7" pin="5" pinfunction="FB" pintype="input"/>
     </net>
-    <net code="115" name="Spare1">
+    <net code="115" name="Spare+">
       <node ref="C34" pin="1" pintype="passive"/>
       <node ref="C35" pin="1" pintype="passive"/>
       <node ref="D14" pin="3" pinfunction="+" pintype="passive"/>
@@ -3967,7 +3692,7 @@
       <node ref="U6" pin="8" pinfunction="VDD" pintype="power_in"/>
       <node ref="U7" pin="3" pinfunction="Vin" pintype="power_in"/>
     </net>
-    <net code="116" name="Spare2">
+    <net code="116" name="Spare-">
       <node ref="C34" pin="2" pintype="passive"/>
       <node ref="D14" pin="4" pinfunction="-" pintype="passive"/>
       <node ref="D15" pin="4" pinfunction="-" pintype="passive"/>
@@ -4004,64 +3729,67 @@
     <net code="125" name="unconnected-(PS1-EN-Pad5)">
       <node ref="PS1" pin="5" pinfunction="EN" pintype="input+no_connect"/>
     </net>
-    <net code="126" name="unconnected-(U1-CRS-Pad14)">
+    <net code="126" name="unconnected-(TVS2-Pad5)">
+      <node ref="TVS2" pin="5" pintype="no_connect"/>
+    </net>
+    <net code="127" name="unconnected-(U1-CRS-Pad14)">
       <node ref="U1" pin="14" pinfunction="CRS" pintype="output+no_connect"/>
     </net>
-    <net code="127" name="unconnected-(U1-NINT{slash}TXER{slash}TXD4-Pad18)">
+    <net code="128" name="unconnected-(U1-NINT{slash}TXER{slash}TXD4-Pad18)">
       <node ref="U1" pin="18" pinfunction="NINT/TXER/TXD4" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="128" name="unconnected-(U1-RXDV-Pad26)">
+    <net code="129" name="unconnected-(U1-RXDV-Pad26)">
       <node ref="U1" pin="26" pinfunction="RXDV" pintype="output+no_connect"/>
     </net>
-    <net code="129" name="unconnected-(U1-TXCLK-Pad20)">
+    <net code="130" name="unconnected-(U1-TXCLK-Pad20)">
       <node ref="U1" pin="20" pinfunction="TXCLK" pintype="output+no_connect"/>
     </net>
-    <net code="130" name="unconnected-(U1-XTAL2-Pad4)">
+    <net code="131" name="unconnected-(U1-XTAL2-Pad4)">
       <node ref="U1" pin="4" pinfunction="XTAL2" pintype="output+no_connect"/>
     </net>
-    <net code="131" name="unconnected-(U2-NC-Pad7)">
+    <net code="132" name="unconnected-(U2-NC-Pad7)">
       <node ref="U2" pin="7" pinfunction="NC" pintype="no_connect"/>
     </net>
-    <net code="132" name="unconnected-(U2-NC-Pad8)">
+    <net code="133" name="unconnected-(U2-NC-Pad8)">
       <node ref="U2" pin="8" pinfunction="NC" pintype="no_connect"/>
     </net>
-    <net code="133" name="unconnected-(U2-R232-Pad15)">
+    <net code="134" name="unconnected-(U2-R232-Pad15)">
       <node ref="U2" pin="15" pinfunction="R232" pintype="input+no_connect"/>
     </net>
-    <net code="134" name="unconnected-(U2-~{CTS}-Pad9)">
+    <net code="135" name="unconnected-(U2-~{CTS}-Pad9)">
       <node ref="U2" pin="9" pinfunction="~{CTS}" pintype="input+no_connect"/>
     </net>
-    <net code="135" name="unconnected-(U2-~{DCD}-Pad12)">
+    <net code="136" name="unconnected-(U2-~{DCD}-Pad12)">
       <node ref="U2" pin="12" pinfunction="~{DCD}" pintype="input+no_connect"/>
     </net>
-    <net code="136" name="unconnected-(U2-~{DSR}-Pad10)">
+    <net code="137" name="unconnected-(U2-~{DSR}-Pad10)">
       <node ref="U2" pin="10" pinfunction="~{DSR}" pintype="input+no_connect"/>
     </net>
-    <net code="137" name="unconnected-(U2-~{RI}-Pad11)">
+    <net code="138" name="unconnected-(U2-~{RI}-Pad11)">
       <node ref="U2" pin="11" pinfunction="~{RI}" pintype="input+no_connect"/>
     </net>
-    <net code="138" name="unconnected-(U3-GPIO6{slash}SD_CLK{slash}SPICLK{slash}HS1_CLK{slash}U1CTS-Pad20)">
+    <net code="139" name="unconnected-(U3-GPIO6{slash}SD_CLK{slash}SPICLK{slash}HS1_CLK{slash}U1CTS-Pad20)">
       <node ref="U3" pin="20" pinfunction="GPIO6/SD_CLK/SPICLK/HS1_CLK/U1CTS" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="139" name="unconnected-(U3-GPIO7{slash}SD_DATA0{slash}SPIQ{slash}HS1_DATA0{slash}U2RTS-Pad21)">
+    <net code="140" name="unconnected-(U3-GPIO7{slash}SD_DATA0{slash}SPIQ{slash}HS1_DATA0{slash}U2RTS-Pad21)">
       <node ref="U3" pin="21" pinfunction="GPIO7/SD_DATA0/SPIQ/HS1_DATA0/U2RTS" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="140" name="unconnected-(U3-GPIO8{slash}SD_DATA1{slash}SPID{slash}HS1_DATA1{slash}U2CTS-Pad22)">
+    <net code="141" name="unconnected-(U3-GPIO8{slash}SD_DATA1{slash}SPID{slash}HS1_DATA1{slash}U2CTS-Pad22)">
       <node ref="U3" pin="22" pinfunction="GPIO8/SD_DATA1/SPID/HS1_DATA1/U2CTS" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="141" name="unconnected-(U3-GPIO9{slash}SD_DATA2{slash}SPIHD{slash}HS1_DATA2{slash}U1RXD-Pad17)">
+    <net code="142" name="unconnected-(U3-GPIO9{slash}SD_DATA2{slash}SPIHD{slash}HS1_DATA2{slash}U1RXD-Pad17)">
       <node ref="U3" pin="17" pinfunction="GPIO9/SD_DATA2/SPIHD/HS1_DATA2/U1RXD" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="142" name="unconnected-(U3-GPIO10{slash}SD_DATA3{slash}SPIWP{slash}HS1_DATA3{slash}U1TXD-Pad18)">
+    <net code="143" name="unconnected-(U3-GPIO10{slash}SD_DATA3{slash}SPIWP{slash}HS1_DATA3{slash}U1TXD-Pad18)">
       <node ref="U3" pin="18" pinfunction="GPIO10/SD_DATA3/SPIWP/HS1_DATA3/U1TXD" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="143" name="unconnected-(U3-GPIO11{slash}SD_CMD{slash}SPICS0{slash}HS1_CMD{slash}U1RTS-Pad19)">
+    <net code="144" name="unconnected-(U3-GPIO11{slash}SD_CMD{slash}SPICS0{slash}HS1_CMD{slash}U1RTS-Pad19)">
       <node ref="U3" pin="19" pinfunction="GPIO11/SD_CMD/SPICS0/HS1_CMD/U1RTS" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="144" name="unconnected-(U3-NC-Pad32)">
+    <net code="145" name="unconnected-(U3-NC-Pad32)">
       <node ref="U3" pin="32" pinfunction="NC" pintype="no_connect"/>
     </net>
-    <net code="145" name="unconnected-(U7-POK-Pad7)">
+    <net code="146" name="unconnected-(U7-POK-Pad7)">
       <node ref="U7" pin="7" pinfunction="POK" pintype="open_collector+no_connect"/>
     </net>
   </nets>
