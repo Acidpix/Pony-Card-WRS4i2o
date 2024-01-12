@@ -1,4 +1,4 @@
-<img src="./readme/ponycard.png" alt="Logo" width="400">
+<img src="./readme/ponycard2.png" alt="Logo" width="400">
 <img src="./readme/wrs4i2o.png" alt="Logo" width="400">
 
 # Pony-Card-WRS4i2o
