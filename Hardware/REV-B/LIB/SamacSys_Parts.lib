@@ -852,4 +852,78 @@ P 5 0 1 6 200 100 900 100 900 -300 200 -300 200 100 N
 ENDDRAW
 ENDDEF
 #
+#SamacSys ECAD Model 1985292
+#/628371/1260273/2.50/12/2/Connector
+DEF 1985292 J 0 30 Y Y 1 F N
+F0 "J" 750 300 50 H V L CNN
+F1 "1985292" 750 200 50 H V L CNN
+F2 "1985292" 750 100 50 H I L CNN
+F3 "https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-2/sf-00059082.pdf" 750 0 50 H I L CNN
+F4 "PTSA 1,5/12-3,5-Z" 750 -100 50 H I L CNN "Description"
+F5 "13.1" 750 -200 50 H I L CNN "Height"
+F6 "651-1985292" 750 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1985292?qs=A%2FKWGUWTCZhUvub721SUUA%3D%3D" 750 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Phoenix Contact" 750 -500 50 H I L CNN "Manufacturer_Name"
+F9 "1985292" 750 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 900 0 200 L 50 50 0 0 P
+X 2 2 0 0 200 R 50 50 0 0 P
+X 3 3 900 -100 200 L 50 50 0 0 P
+X 4 4 0 -100 200 R 50 50 0 0 P
+X 5 5 900 -200 200 L 50 50 0 0 P
+X 6 6 0 -200 200 R 50 50 0 0 P
+X 7 7 900 -300 200 L 50 50 0 0 P
+X 8 8 0 -300 200 R 50 50 0 0 P
+X 9 9 900 -400 200 L 50 50 0 0 P
+X 10 10 0 -400 200 R 50 50 0 0 P
+X 11 11 900 -500 200 L 50 50 0 0 P
+X 12 12 0 -500 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 700 100 700 -600 200 -600 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model 1985234
+#/269399/1260273/2.50/6/2/Connector
+DEF 1985234 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "1985234" 650 200 50 H V L CNN
+F2 "1985234" 650 100 50 H I L CNN
+F3 "https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-2/sf-00059076.pdf" 650 0 50 H I L CNN
+F4 "Phoenix Contact Non-Fused Terminal Block, 6 Way/Pole, Solder Terminals, 20  16 AWG Through Hole, Nylon, 250 V" 650 -100 50 H I L CNN "Description"
+F5 "13.1" 650 -200 50 H I L CNN "Height"
+F6 "651-1985234" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1985234?qs=A%2FKWGUWTCZgjCof%252B1YY92w%3D%3D" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Phoenix Contact" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "1985234" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 800 0 200 L 50 50 0 0 P
+X 2 2 0 0 200 R 50 50 0 0 P
+X 3 3 800 -100 200 L 50 50 0 0 P
+X 4 4 0 -100 200 R 50 50 0 0 P
+X 5 5 800 -200 200 L 50 50 0 0 P
+X 6 6 0 -200 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model 1985195
+#/269402/1260273/2.50/2/2/Connector
+DEF 1985195 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "1985195" 650 200 50 H V L CNN
+F2 "1985195" 650 100 50 H I L CNN
+F3 "https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-2/sf-00059072.pdf" 650 0 50 H I L CNN
+F4 "PTSA 1,5/ 2-3,5-Z Phoenix Contact Non-Fused Terminal Block, 2 Way, Solder Terminals, 20  16 AWG Through Hole, Nylon, 250 V" 650 -100 50 H I L CNN "Description"
+F5 "13" 650 -200 50 H I L CNN "Height"
+F6 "651-1985195" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1985195?qs=nq%2FEIFkB2fEpUV%252BqAaKYzQ%3D%3D" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Phoenix Contact" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "1985195" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 800 0 200 L 50 50 0 0 P
+X 2 2 0 0 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -100 200 -100 200 100 N
+ENDDRAW
+ENDDEF
+#
 #End Library

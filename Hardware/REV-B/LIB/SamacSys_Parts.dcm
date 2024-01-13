@@ -168,4 +168,22 @@ K
 F http://www.ti.com/lit/gpn/tps54202
 $ENDCMP
 #
+$CMP 1985292
+D PTSA 1,5/12-3,5-Z
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-2/sf-00059082.pdf
+$ENDCMP
+#
+$CMP 1985234
+D Phoenix Contact Non-Fused Terminal Block, 6 Way/Pole, Solder Terminals, 20  16 AWG Through Hole, Nylon, 250 V
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-2/sf-00059076.pdf
+$ENDCMP
+#
+$CMP 1985195
+D PTSA 1,5/ 2-3,5-Z Phoenix Contact Non-Fused Terminal Block, 2 Way, Solder Terminals, 20  16 AWG Through Hole, Nylon, 250 V
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-2/sf-00059072.pdf
+$ENDCMP
+#
 #End Doc Library
