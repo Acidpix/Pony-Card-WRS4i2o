@@ -12,7 +12,10 @@ Pony-Card-WRS4i2o is a Wiegand/RS485 capable card for access controle powered by
   - Drive 2 output NO/NC relay (230V/5A Max)
   - Can run on WiFi and/or Ethernet (e.g for failover)
   - Ready to Home assistant with EspHOME (Sample config avaliable)
-  - Ready to MQTT with Tasmota 
+  - Ready to MQTT with Tasmota
+  - -40C° +60C° capability
+  - Fit in DIN PLC Box like [this](https://fr.aliexpress.com/i/1005004933689728.html)
+  - Dimention : 92.4mm X 87.5  
 
 # Esp32 Pin Mapping 
   - GPIO 0 : Flash write mode Conected to CH340
@@ -43,5 +46,10 @@ Pony-Card-WRS4i2o is a Wiegand/RS485 capable card for access controle powered by
   - GPIO 36 : Digital Input 3 (3V - 24V)
   - GPIO 39 : Digital Input 4 (3V - 24V)
 
+# Wiegand ESPHome example 
+
+```bloc code``` 
 
 
+# Misc
+R49 was unpopulated resistance, because it's just for very old PoE device, support only type 1 PoE and this type need permanante 10mA current drain. But this produce 0.5w of heat and in certain condition make overhead the board, please populate only if your PoE injector dont work without an be careful of probaly over heating in +50C° environement.
