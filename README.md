@@ -55,7 +55,8 @@ Pony-Card-WRS4i2o is a Wiegand/RS485 capable card for access controle powered by
 
 # Wiegand ESPHome example 
 
-``` esphome:
+``` 
+esphome:
   name: Pony Card WRS4i2o
   friendly_name: Pony_Card_WRS4i2o
 
