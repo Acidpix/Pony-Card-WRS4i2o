@@ -10,7 +10,7 @@
     # Username for remote repository
     GIT_USERNAME: Pixi # optional
     # The git HTTPS password or token for the remote repository
-    GIT_PASSWORD: Counter971! # optional
+    GIT_PASSWORD: # optional
     # The ssh private key for writing to the remote repository, if using ssh
     GIT_SSH_PRIVATE_KEY: # optional
     # The ssh public key for writing to the remote repository. Normally, not required at all
